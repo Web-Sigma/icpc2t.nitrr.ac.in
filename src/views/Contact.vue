@@ -1,7 +1,7 @@
 <template>
 <div>
-  <div id="content">
-    <div class="container clearfix">
+
+
       <div class="page-header">
         <h1 class="page-title">Contact us</h1>
         <!-- .page-title -->
@@ -28,8 +28,7 @@
         </div> <!-- #main -->
       </div> <!-- #primary -->
     </div>
-  </div>
-</div>
+
 </template>
 
 <script>
