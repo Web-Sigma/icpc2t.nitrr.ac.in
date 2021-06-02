@@ -63,13 +63,18 @@
 </template>
 
 <script>
+import DynamicMarquee from 'vue-dynamic-marquee';
 export default {
   name: "Side",
   components:{
-    
+    DynamicMarquee
   }
 };
 </script>
 
 <style scoped>
+dynamic-marquee {
+  color: #f25405; font-family: helvetica
+}
+
 </style>
