@@ -10,9 +10,9 @@ import ConferenceVenue from '../views/ConferenceVenue.vue'
 import Downloads from '../views/Downloads.vue'
 import Event_schedule from '../views/Event_schedule.vue'
 import Keynote_Speakers from '../views/Keynote_Speakers.vue'
-import Partners from '../views/Committee.vue'
+import Partners from '../views/Partners.vue'
 import Workshops from '../views/Workshops.vue'
-import Trackstopics from '../views/Trackstopics.vue'
+import Trackstopics from '../views/TracksTopics.vue'
 import Advisory_Committee from '../views/Advisory_Committee.vue'
 import Organising_Committee from '../views/Organising_Committee.vue'
 import Technical_Committee from '../views/Technical_Committee.vue'
@@ -56,17 +56,17 @@ const routes = [
   {
     path: '/advisory',
     name: 'Advisory_Committee',
-    component:Advisory_Committee
+    component: Advisory_Committee
   },
   {
     path: '/organising',
     name: 'Organising_Committee',
-    component:Organising_Committee
+    component: Organising_Committee
   },
   {
     path: '/technical',
     name: 'Technical_Committee',
-    component:Technical_Committee
+    component: Technical_Committee
   },
   {
     path: '/venue',
