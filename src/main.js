@@ -4,6 +4,7 @@ import router from './router'
 import DynamicMarquee from 'vue-dynamic-marquee';
 Vue.component('dynamic-marquee', DynamicMarquee);
 
+
 Vue.config.productionTip = false
 
 new Vue({

@@ -1,4 +1,5 @@
 <template>
+<<<<<<< Updated upstream
   <div>
     <div id="wrapper" style="padding: 15px; width: 100%">
       <div id="page" class="site">
@@ -7,10 +8,18 @@
         <Side />
         <Footer />
       </div>
+=======
+  <div id="app">
+    <div id="nav">
+      <router-link to="/">Home</router-link> |
+      <router-link to="/about">Contact</router-link>
+
+>>>>>>> Stashed changes
     </div>
   </div>
 </template>
 
+<<<<<<< Updated upstream
 <script>
 import Side from "./components/Side.vue";
 import Footer from "./components/Footer.vue";
@@ -25,6 +34,9 @@ export default {
   },
 };
 </script>
+=======
+
+>>>>>>> Stashed changes
 
 <style>
 .site{
