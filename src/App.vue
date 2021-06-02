@@ -3,8 +3,12 @@
     <div id="wrapper" style="padding: 15px; width: 100%">
       <div id="page" class="site">
         <Navbar />
-        <router-view />
-        <Side />
+        <div id="content">
+          <div class="container clearfix">
+            <router-view />
+            <Side />
+          </div>
+        </div>
         <Footer />
       </div>
     </div>
@@ -26,15 +30,15 @@ export default {
 </script>
 
 <style>
-.site{
+.site {
   padding-top: 15px;
 
-padding-right: 15px;
+  padding-right: 15px;
 
-padding-bottom: 15px;
+  padding-bottom: 15px;
 
-padding-left: 15px;
+  padding-left: 15px;
 
-box-shadow: #c7c7c7 1px 1px 8px;
+  box-shadow: #c7c7c7 1px 1px 8px;
 }
 </style>

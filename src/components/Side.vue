@@ -10,7 +10,7 @@
             scrolldelay="3"
             direction="up"
             onmouseover="this.stop();"
-            onmouseout="this.start();" 
+            onmouseout="this.start();"
             >*Doctors attending the conference will be awarded the credit points
             accredited by Medical Council of Chhattisgarh.</marquee
           >
@@ -65,14 +65,13 @@
 <script>
 export default {
   name: "Side",
-  components:{
-  }
+  components: {},
 };
 </script>
 
 <style scoped>
 dynamic-marquee {
-  color: #f25405; font-family: helvetica
+  color: #f25405;
+  font-family: helvetica;
 }
-
 </style>
