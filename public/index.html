@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-  <link rel="stylesheet" href="./event/css/responsive8e83.css">
   <link rel="stylesheet" href="./event/style8e83.css">
+  <link rel="stylesheet" href="./event/css/responsive8e83.css">
   <script type='text/javascript' src='./event/jquery/jqueryb8ff.js'></script>
   <script type='text/javascript' src='./event/jquery/jquery-migrate.min330a.js'></script>
   <script type='text/javascript' src='./event/js/jquery.flexslider8e83.js'></script>
@@ -26,18 +26,22 @@
     <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
         Please enable it to continue.</strong>
   </noscript>
-  <div id="app"></div>
+  <div id="wrapper" style="padding: 15px; width: 100%">
+    <div id="page" class="site">
+      <div id="app"></div>
+    </div>
+  </div>
   <!-- built files will be auto injected -->
 
   <script type="text/javascript">
     function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-} 
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
 
   </script>
   <script type='text/javascript' src=./event/js/event-main8e83.js'></script>

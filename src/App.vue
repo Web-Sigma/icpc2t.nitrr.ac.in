@@ -1,81 +1,74 @@
 <template>
   <div>
-    <div id="wrapper" style="padding: 15px; width: 100%">
-      <div id="page" class="site">
-        <header id="masthead" class="site-header" role="banner">
-          <router-link to="/"
-            ><img
-              src="./assets/temp.svg"
-              class="header-image"
-              width="2403"
-              height="615"
-              alt=""
-            />
-          </router-link>
-          <br />
-          <div class="top-header">
-            <div class="container clearfix"></div>
-          </div>
-          <div class="topnav clearfix" id="myTopnav">
-            <router-link to="/" class="active">Home</router-link>
-            <div class="dropdown">
-              <button class="dropbtn">
-                Committees
-                <i class="fa fa-caret-down"></i>
-              </button>
-              <div class="dropdown-content">
-                <router-link to="/advisory">Advisory Committee</router-link>
-                <router-link to="/organising">Organising Committee</router-link>
-                <router-link to="/technical">Technical Committee</router-link>
-              </div>
-            </div>
-            <div class="dropdown">
-              <button class="dropbtn">
-                Call for papers
-                <i class="fa fa-caret-down"></i>
-              </button>
-              <div class="dropdown-content">
-                <router-link to="/call-for-papers">Call for Papers</router-link>
-                <router-link to="/tracks">Tracks / Topics</router-link>
-              </div>
-            </div>
-            <router-link to="/speakers">Keynote Speakers</router-link>
-            <router-link to="/schedule">Program Schedule</router-link>
-            <router-link to="/workshops">Workshops</router-link>
-            <router-link to="/registration">Registration</router-link>
-            <div class="dropdown">
-              <button class="dropbtn">
-                Plan Travel
-                <i class="fa fa-caret-down"></i>
-              </button>
-              <div class="dropdown-content">
-                <router-link to="/india">About India</router-link>
-                <router-link to="/raipur">About Raipur</router-link>
-                <router-link to="/venue">Conference Venue</router-link>
-                <router-link to="/accomodation">Accomodation</router-link>
-                <router-link to="/tourist">Tourists Attraction</router-link>
-              </div>
-            </div>
-            <router-link to="/downloads">Downloads</router-link>
-            <router-link to="/partners">Partners</router-link>
-            <router-link to="/contact">Contact Us</router-link>
-            <router-link
-              to="javascript:void(0);"
-              class="icon"
-              onclick="myFunction()"
-              >&#9776;</router-link
-            >
-          </div>
-        </header>
-        <div id="content">
-          <div class="container clearfix">
-            <router-view />
-            <Side />
+    <header id="masthead" class="site-header" role="banner">
+      <router-link to="/"
+        ><img
+          src="./assets/temp.svg"
+          class="header-image"
+          width="2403"
+          height="615"
+          alt=""
+        />
+      </router-link>
+      <br />
+      <div class="top-header">
+        <div class="container clearfix"></div>
+      </div>
+      <div class="topnav clearfix" id="myTopnav">
+        <router-link to="/" class="active">Home</router-link>
+        <div class="dropdown">
+          <button class="dropbtn">
+            Committees
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <router-link to="/advisory">Advisory Committee</router-link>
+            <router-link to="/organising">Organising Committee</router-link>
+            <router-link to="/technical">Technical Committee</router-link>
           </div>
         </div>
-        <Footer />
+        <div class="dropdown">
+          <button class="dropbtn">
+            Call for papers
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <router-link to="/call-for-papers">Call for Papers</router-link>
+            <router-link to="/tracks">Tracks / Topics</router-link>
+          </div>
+        </div>
+        <router-link to="/speakers">Keynote Speakers</router-link>
+        <router-link to="/schedule">Program Schedule</router-link>
+        <router-link to="/workshops">Workshops</router-link>
+        <router-link to="/registration">Registration</router-link>
+        <div class="dropdown">
+          <button class="dropbtn">
+            Plan Travel
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <router-link to="/india">About India</router-link>
+            <router-link to="/raipur">About Raipur</router-link>
+            <router-link to="/venue">Conference Venue</router-link>
+            <router-link to="/accomodation">Accomodation</router-link>
+            <router-link to="/tourist">Tourists Attraction</router-link>
+          </div>
+        </div>
+        <router-link to="/downloads">Downloads</router-link>
+        <router-link to="/partners">Partners</router-link>
+        <router-link to="/contact">Contact Us</router-link>
+        <a to="javascript:void(0);" class="icon" onclick="myFunction()"
+          >&#9776;</a
+        >
+      </div>
+    </header>
+    <div id="content">
+      <div class="container clearfix">
+        <router-view />
+        <Side />
       </div>
     </div>
+    <Footer />
   </div>
 </template>
 <script>
