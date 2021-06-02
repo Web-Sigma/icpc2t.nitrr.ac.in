@@ -1,11 +1,31 @@
 <template>
-  <div>
+<div>
 
-  </div>
+  <section id="post-96" class="post-96 page type-page status-publish hentry">
+    <p style="color: #006699;font-size:25px;"><strong>KEYNOTE SPEAKERS</strong></p>
+    <!-- Swiper -->
+    <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+      <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+        <div class="swiper-slide swiper-slide-active" style="width: 817px;"><img src="wp-content/uploads/2018/13/speaker1.jpg"></div>
+        <div class="swiper-slide swiper-slide-next" style="width: 817px;"><img src="wp-content/uploads/2018/13/speaker2.jpg"></div>
+        <div class="swiper-slide" style="width: 817px;"><img src="wp-content/uploads/2018/13/speaker3.jpg"></div>
+        <div class="swiper-slide" style="width: 817px;"><img src="wp-content/uploads/2018/13/speaker4.jpg"></div>
+      </div>
+      <!-- Add Arrows -->
+      <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></div>
+      <div class="swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true"></div>
+      <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+    </div>
+
+  </section>
+
+
+
+</div>
 </template>
 
 <script>
-  export default{
-
-  };
+export default {
+name: "Keynote_Spaeakers"
+};
 </script>
