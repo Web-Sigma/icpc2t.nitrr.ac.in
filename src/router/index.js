@@ -91,7 +91,6 @@ const routes = [
     name: 'Workshops',
     component:Workshops
   },
-
 ]
 
 const router = new VueRouter({
