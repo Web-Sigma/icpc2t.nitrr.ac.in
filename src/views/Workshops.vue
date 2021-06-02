@@ -7,8 +7,12 @@
                             <!-- Swiper -->
                             <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
                                 <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
-                                    <div class="swiper-slide swiper-slide-active" style="margin-left: auto; width: 817px;"><img src="./nivo/demo/12.jpg"></div>
-                                    <div class="swiper-slide swiper-slide-next" style="width: 817px;"><img src="./nivo/demo/13.jpg"></div>
+                                    <div class="swiper-slide swiper-slide-active" style="margin-left: auto; width: 817px;">
+                                      <!-- <img src="./nivo/demo/12.jpg"> -->
+                                    </div>
+                                    <div class="swiper-slide swiper-slide-next" style="width: 817px;">
+                                      <!-- <img src="./nivo/demo/13.jpg"> -->
+                                    </div>
                                 </div>
                                 <!-- Add Arrows -->
                                 <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></div>
