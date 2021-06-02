@@ -64,7 +64,7 @@ const routes = [
   {
     path: '/venue',
     name: 'ConferenceVenue',
-    component:ConfrenceVenue
+    component:ConferenceVenue
   },
   {
     path: '/downloads',
