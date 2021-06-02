@@ -4,6 +4,7 @@ import Home from '../views/Home.vue'
 import Contact from '../views/Contact.vue'
 import Registration  from '../views/Registration.vue'
 import Aboutindia  from '../views/Aboutindia.vue'
+import Aboutraipur  from '../views/Aboutraipur.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -26,6 +27,11 @@ const routes = [
     path: '/india',
     name: 'Aboutindia',
     component: Aboutindia
+  },
+  {
+    path: '/raipur',
+    name: 'Aboutraipur',
+    component: Aboutraipur
   },
 
 ]
