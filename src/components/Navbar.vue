@@ -13,115 +13,25 @@
       <div class="top-header">
         <div class="container clearfix"></div>
       </div>
-      <div id="sticky-header" class="clearfix" style="padding-top: 15px">
-        <div class="container clearfix kk" style="background-color: #069">
-          <section class="navigation">
-            <div class="nav-container">
-              <!-- <div class="brand">
-      <a href="#!">Logo</a>
-    </div> -->
-              <nav>
-                <div class="nav-mobile">
-                  <a id="nav-toggle" href="#!"><span></span></a>
-                </div>
-                <ul class="nav-list">
-                  <li class="active">
-                    <a href="/">Home</a>
-                  </li>
-
-                  <li>
-                    <a >Committees</a>
-                    <ul class="nav-dropdown">
-                      <li
-                        class="<?php if(page=='advisory_committee'){echo 'active';}?>"
-                      >
-                        <a href="advisory_committee.php">AdvisoryCommittee</a>
-                      </li>
-
-                      <li
-                        class="<?php if(page=='organising_committee'){echo 'active';}?>"
-                      >
-                        <a href="organising_committee.php">
-                          Organising Committee</a
-                        >
-                      </li>
-                      <li
-                        class="<?php if(page=='technical_committee'){echo 'active';}?>"
-                      >
-                        <a href="technical_committee.php">
-                          Technical Committee</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    <a href="#">Call for papers</a>
-                    <ul class="nav-dropdown">
-                      <li class="<?php if(page=='tracks'){echo 'active';}?>">
-                        <a href="tracks.php"> Tracks / Topics</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="<?php if(page=='schedule'){echo 'active';}?>">
-                    <a href="schedule.php"> Program Schedule</a>
-                  </li>
-                  <li class="<?php if(page=='workshops'){echo 'active';}?>">
-                    <a href="workshops.php">Workshops</a>
-                  </li>
-                  <li class="<?php if(page=='register'){echo 'active';}?>">
-                    <a href="register.php"> Registeration</a>
-                  </li>
-                  <li>
-                    <a href="#!">Plan Travel</a>
-                    <ul class="nav-dropdown">
-                      <li
-                        class="<?php if(page=='aboutindia'){echo 'active';}?>"
-                      >
-                        <a href="about_india.php">About India</a>
-                      </li>
-                      <li
-                        class="<?php if(page=='aboutraipur'){echo 'active';}?>"
-                      >
-                        <a href="about_raipur.php">About Raipur</a>
-                      </li>
-                      <li
-                        class="<?php if(page=='travelraipur'){echo 'active';}?>"
-                      >
-                        <a href="travel_raipur.php">Travelling to Raipur</a>
-                      </li>
-                      <li
-                        class="<?php if(page=='conferencevenue'){echo 'active';}?>"
-                      >
-                        <a href="conference_venue.php"> Conference Venue</a>
-                      </li>
-                      <li
-                        class="<?php if(page=='accomodation'){echo 'active';}?>"
-                      >
-                        <a href="accomodation.php"> Accomodation</a>
-                      </li>
-                      <li
-                        class="<?php if(page=='touristattractions'){echo 'active';}?>"
-                      >
-                        <a href="tourist_attractions.php">
-                          Tourists Attraction</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="<?php if(page=='downloads'){echo 'active';}?>">
-                    <a href="downloads.php">Downloads</a>
-                  </li>
-                  <li class="<?php if(page=='partners'){echo 'active';}?>">
-                    <a href="partners.php">Partners</a>
-                  </li>
-                  <li class="<?php if(page=='contact'){echo 'active';}?>">
-                    <a href="contact.php">Contact Us</a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-          </section>
+      <div class="topnav clearfix" id="myTopnav">
+        <a href="#home" class="active">Home</a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+        <div class="dropdown">
+          <button class="dropbtn">
+            Dropdown
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </div>
+        <a href="#about">About</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()"
+          >&#9776;</a
+        >
       </div>
     </header>
   </div>
@@ -133,323 +43,127 @@ export default {
 </script>
 
 <style >
-
-
-@charset "UTF-8";
-.navigation {
-  height: 70px;
-/*   background: #262626; */
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #006699;
+  overflow: hidden;
 }
 
-.brand {
-  position: absolute;
-  padding-left: 20px;
+/* Style the links inside the navigation bar */
+.topnav a {
   float: left;
-  line-height: 70px;
-  text-transform: uppercase;
-  font-size: 1.4em;
-}
-.brand a,
-.brand a:visited {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-.nav-container {
-  max-width: 100%;
-  margin: 0 auto;
-}
-.active{
-  border-bottom: 3px solid white;
-}
-nav {
-/*   float: right; */
-}
-nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-nav ul li {
-  float: left;
-  position: relative;
-}
-nav ul li a,
-nav ul li a:visited {
   display: block;
-  padding: 0 20px;
-  line-height: 70px;
-  background: #069;
-  color: #E8E8E8;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-}
-nav ul li a:hover,
-nav ul li a:visited:hover {
-  background: #2581DC;
-  color: #ffffff;
-}
-nav ul li a:not(:only-child):after,
-nav ul li a:visited:not(:only-child):after {
-  padding-left: 4px;
-  content: ' ▾';
-}
-nav ul li ul li {
-  min-width: 190px;
-}
-nav ul li ul li a {
-  padding: 15px;
-  line-height: 20px;
+  font-size: 17px;
 }
 
-.nav-dropdown, .nav-dropdown:hover {
-  position: absolute;
+/* Add an active class to highlight the current page */
+.active {
+  text-decoration: underline;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
   display: none;
-  z-index: 1000;
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* Mobile navigation */
-.nav-mobile {
+/* Dropdown container - needed to position the dropdown content */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Style the dropdown button to fit inside the topnav */
+.dropdown .dropbtn {
+  font-size: 17px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+/* Style the dropdown content (hidden by default) */
+.dropdown-content {
   display: none;
   position: absolute;
-  top: 0;
-  right: 0;
-  background: #262626;
-  height: 70px;
-  width: 70px;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
 }
 
-@media only screen and (max-width: 798px) {
-  .nav-mobile {
-    display: block;
-  }
+/* Style the links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
 
-  nav {
-    width: 100%;
-    padding: 70px 0 15px;
-  }
-  nav ul {
+/* Add a dark background on topnav links and the dropdown button on hover */
+.topnav a:hover,
+.dropdown:hover .dropbtn {
+  background-color: #006699;
+  color: white;
+}
+
+/* Add a grey background to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Show the dropdown menu when the user moves the mouse over the dropdown button */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child),
+  .dropdown .dropbtn {
     display: none;
   }
-  nav ul li {
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .topnav.responsive {
+    position: relative;
+  }
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {
     float: none;
   }
-  nav ul li a {
-    padding: 15px;
-    line-height: 20px;
+  .topnav.responsive .dropdown-content {
+    position: relative;
   }
-  nav ul li ul li a {
-    padding-left: 30px;
-  }
-
-  .nav-dropdown {
-    position: static;
-  }
-}
-@media screen and (min-width: 799px) {
-  .nav-list {
-    display: block !important;
-  }
-}
-#nav-toggle {
-  position: absolute;
-  left: 18px;
-  top: 22px;
-  cursor: pointer;
-  padding: 10px 35px 16px 0px;
-}
-#nav-toggle span,
-#nav-toggle span:before,
-#nav-toggle span:after {
-  cursor: pointer;
-  border-radius: 1px;
-  height: 5px;
-  width: 35px;
-  background: #ffffff;
-  position: absolute;
-  display: block;
-  content: '';
-  transition: all 300ms ease-in-out;
-}
-#nav-toggle span:before {
-  top: -10px;
-}
-#nav-toggle span:after {
-  bottom: -10px;
-}
-#nav-toggle.active span {
-  background-color: transparent;
-}
-#nav-toggle.active span:before, #nav-toggle.active span:after {
-  top: 0;
-}
-#nav-toggle.active span:before {
-  transform: rotate(45deg);
-}
-#nav-toggle.active span:after {
-  transform: rotate(-45deg);
-}
-
-article {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 10px;
-}
-
-.navigation {
-  height: 70px;
- 
-}
-
-.brand {
-  position: absolute;
-  padding-left: 20px;
-  float: left;
-  line-height: 70px;
-  text-transform: uppercase;
-  font-size: 1.4em;
-  a,
-  a:visited {
-    color: #ffffff;
-    text-decoration: none;
-  }
-}
-
-.nav-container {
-  max-width: 1000px;
-  margin: 0 auto;
-}
-
-nav {
-  float: right;
-  ul {
-    list-style: ;
-    margin: 0;
-    padding: 0;
-    li {
-      float: left;
-      position: relative;
-      a,
-      a:visited {
-        display: block;
-        padding: 0 20px;
-        line-height: 70px;
-        background: $nav-background;
-        color: #ffffff;
-        text-decoration: none;
-        &:hover {
-          background: #2581dc;
-          color: #ffffff;
-        }
-        &:not(:only-child):after {
-          padding-left: 4px;
-          content: " ▾";
-        }
-      } // Dropdown list
-      ul li {
-        min-width: 190px;
-        a {
-          padding: 15px;
-          line-height: 20px;
-        }
-      }
-    }
-  }
-}
-
-.nav-dropdown {
-  position: absolute;
-  display: none;
-  z-index: 100;
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
-}
-
-/* Mobile navigation */
-
-.nav-mobile {
-  display: none;
-  position: absolute;
-  top: 0;
-  right: 0;
-  background: $nav-background;
-  height: 70px;
-  width: 70px;
-}
-@media only screen and (max-width: 798px) {
-
-  .nav-mobile {
+  .topnav.responsive .dropdown .dropbtn {
     display: block;
-  }
-  nav {
     width: 100%;
-    padding: 70px 0 15px;
-    ul {
-      display: none;
-      li {
-        float: none;
-        a {
-          padding: 15px;
-          line-height: 20px;
-        }
-        ul li a {
-          padding-left: 30px;
-        }
-      }
-    }
+    text-align: left;
   }
-  .nav-dropdown {
-    position: static;
-  }
-}
-@media screen and (min-width: 799px) {
-  .nav-list {
-    display: block !important;
-  }
-}
-#nav-toggle {
-  position: absolute;
-  left: 18px;
-  top: 22px;
-  cursor: pointer;
-  padding: 10px 35px 16px 0px;
-  span,
-  span:before,
-  span:after {
-    cursor: pointer;
-    border-radius: 1px;
-    height: 5px;
-    width: 35px;
-    background: #ffffff;
-    position: absolute;
-    display: block;
-    content: "";
-    transition: all 300ms ease-in-out;
-  }
-  span:before {
-    top: -10px;
-  }
-  span:after {
-    bottom: -10px;
-  }
-  &.active span {
-    background-color: transparent;
-    &:before,
-    &:after {
-      top: 0;
-    }
-    &:before {
-      transform: rotate(45deg);
-    }
-    &:after {
-      transform: rotate(-45deg);
-    }
-  }
-}
-
-// Page content
-article {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 10px;
 }
 </style>
