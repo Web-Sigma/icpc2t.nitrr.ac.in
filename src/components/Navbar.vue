@@ -3,7 +3,7 @@
     <header id="masthead" class="site-header" role="banner">
       <a href="index.html"
         ><img
-          src="temp.png"
+          src="../assets/temp.svg"
           class="header-image"
           width="2403"
           height="615"
