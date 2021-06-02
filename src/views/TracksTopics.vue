@@ -47,7 +47,7 @@
       </div> <!-- #primary -->
 
       <div id="secondary">
-        ﻿<aside id="text-16" class="widget widget_text">
+        <aside id="text-16" class="widget widget_text">
           <h2 class="widget-title">Announcement</h2>
           <div class="textwidget">
             <p style="text-align: justify;">
@@ -70,7 +70,7 @@
           <div class="textwidget">
             <!-- <p><strong>TEQIP-III </strong>(NIT Raipur).</p> -->
             <!-- <p><strong>Technical Sponsors</strong></p> -->
-            <p><img class="alignnone wp-image-259" src="./nivo/demo/opal.png" alt="" style="margin-right:20px" width="170" height="80"><img class="alignnone wp-image-259" src="./nivo/demo/typhoon.png" alt="" width="80" height="80"></p>
+            <p><img class="alignnone wp-image-259" src="" alt="" style="margin-right:20px" width="170" height="80"><img class="alignnone wp-image-259" src="" alt="" width="80" height="80"></p>
             <!-- <p><strong>Media partner:</strong></p>
     <p><strong><a href="../external.html?link=http://innovatiocuris.com/" target="_blank" rel="noopener"><img class="alignnone wp-image-259" src="wp-content/uploads/2018/04/download-300x132.png" alt="" width="157" height="69" /></a></strong></p> -->
             <p>&nbsp;</p>

@@ -12,6 +12,11 @@ import Event_schedule from '../views/Event_schedule.vue'
 import Keynote_Speakers from '../views/Keynote_Speakers.vue'
 import Partners from '../views/Committee.vue'
 import Workshops from '../views/Workshops.vue'
+import Trackstopics from '../views/Trackstopics.vue'
+import Advisory_Committee from '../views/Advisory_Committee.vue'
+import Organising_Committee from '../views/Organising_Committee.vue'
+import Technical_Committee from '../views/Technical_Committee.vue'
+import TouristAttraction from '../views/Tourist_Attraction.vue'
 
 Vue.use(VueRouter)
 Vue.use(VueRouter)
@@ -48,21 +53,21 @@ const routes = [
     name: 'Callpapers',
     component: Callpapers
   },
-  // {
-  //   path: '/advisory',
-  //   name: 'Advisory_Committee',
-  //   component:Advisory_Committee
-  // },
-  // {
-  //   path: '/organising',
-  //   name: 'Organising_Committee',
-  //   component:Organising_Committee
-  // },
-  // {
-  //   path: '/technical',
-  //   name: 'Technical_Committee',
-  //   component:Technical_Committee
-  // },
+  {
+    path: '/advisory',
+    name: 'Advisory_Committee',
+    component:Advisory_Committee
+  },
+  {
+    path: '/organising',
+    name: 'Organising_Committee',
+    component:Organising_Committee
+  },
+  {
+    path: '/technical',
+    name: 'Technical_Committee',
+    component:Technical_Committee
+  },
   {
     path: '/venue',
     name: 'ConferenceVenue',
@@ -92,6 +97,16 @@ const routes = [
     path: '/workshops',
     name: 'Workshops',
     component: Workshops
+  },
+  {
+    path: '/tracks',
+    name: 'Trackstopics',
+    component: Trackstopics
+  },
+  {
+    path: '/tourist',
+    name: 'TouristAttraction',
+    component: TouristAttraction
   },
 ]
 
