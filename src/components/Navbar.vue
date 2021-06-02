@@ -1,7 +1,7 @@
 <template>
   <div>
     <header id="masthead" class="site-header" role="banner">
-      <a href="index.html"
+      <a href="/"
         ><img
           src="../assets/temp.svg"
           class="header-image"
@@ -10,16 +10,15 @@
           alt=""
         />
       </a>
+      <br>
       <div class="top-header">
         <div class="container clearfix"></div>
       </div>
-      <div class="topnav clearfix" id="myTopnav">
-        <a href="#home" class="active">Home</a>
-        <a href="#news">News</a>
-        <a href="#contact">Contact</a>
+     <div class="topnav clearfix" id="myTopnav">
+        <a href="/" class="active">Home</a>
         <div class="dropdown">
           <button class="dropbtn">
-            Dropdown
+            Committees
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
@@ -28,7 +27,35 @@
             <a href="#">Link 3</a>
           </div>
         </div>
-        <a href="#about">About</a>
+        <div class="dropdown">
+          <button class="dropbtn">
+            Call for papers
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
+        </div>
+        <a href="/speakers">Keynote Speakers</a>
+        <a href="/schedule">Program Schedule</a>
+        <a href="/workshops">Workshops</a>
+        <a href="/registration">Registration</a>
+        <div class="dropdown">
+          <button class="dropbtn">
+            Plan Travel
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
+        </div>
+        <a href="/downloads">Downloads</a>
+        <a href="/partners">Partners</a>
+        <a href="/contact">Contact Us</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()"
           >&#9776;</a
         >
