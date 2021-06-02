@@ -1,17 +1,69 @@
 <!DOCTYPE html>
 <html lang="">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title><%= htmlWebpackPlugin.options.title %></title>
-  </head>
-  <body>
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <link rel="stylesheet" href="./event/css/responsive8e83.css">
+  <link rel="stylesheet" href="./event/style8e83.css">
+  <script type='text/javascript' src='./event/jquery/jqueryb8ff.js'></script>
+  <script type='text/javascript' src='./event/jquery/jquery-migrate.min330a.js'></script>
+  <script type='text/javascript' src='./event/js/jquery.flexslider8e83.js'></script>
+  <script type='text/javascript'>
+    /* <![CDATA[ */
+    var event_slider_value = { "event_animation_effect": "slide", "event_slideshowSpeed": "5000", "event_animationSpeed": "700", "event_direction": "horizontal" };
+/* ]]> */
+  </script>
+  <title>
+    <%= htmlWebpackPlugin.options.title %>
+  </title>
+</head>
+
+<body class="home page-template-default page page-id-96 two_column_blog">
+  <noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+        Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+
+  <script type="text/javascript">
+    (function ($) {
+      // Begin jQuery
+      $(function () {
+        // DOM ready
+        // If a link has a dropdown, add sub menu toggle.
+        $("nav ul li a:not(:only-child)").click(function (e) {
+          $(this)
+            .siblings(".nav-dropdown")
+            .toggle();
+          // Close one dropdown when selecting another
+          $(".nav-dropdown")
+            .not($(this).siblings())
+            .hide();
+          e.stopPropagation();
+        });
+        // Clicking away from dropdown will remove the dropdown class
+        $("html").click(function () {
+          $(".nav-dropdown").hide();
+        });
+        // Toggle open and close nav styles on click
+        $("#nav-toggle").click(function () {
+          $("nav ul").slideToggle();
+        });
+        // Hamburger to X toggle
+        $("#nav-toggle").on("click", function () {
+          this.classList.toggle("active");
+        });
+      }); // end DOM ready
+    })(jQuery); // end jQuery
+
+  </script>
+  <script type='text/javascript' src=./event/js/event-main8e83.js'></script>
+  <script type='text/javascript' src='./event/js/navigation8e83.js'></script>
+  <script type='text/javascript' src='./event/js/wp-embed.min8e83.js'></script>
+</body>
+
 </html>
