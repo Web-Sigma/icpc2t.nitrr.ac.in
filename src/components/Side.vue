@@ -63,11 +63,9 @@
 </template>
 
 <script>
-import DynamicMarquee from 'vue-dynamic-marquee';
 export default {
   name: "Side",
   components:{
-    DynamicMarquee
   }
 };
 </script>
