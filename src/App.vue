@@ -62,6 +62,7 @@
         >
       </div>
     </header>
+    
     <div id="content">
       <div class="container clearfix">
         <router-view class="slide-in-left" />
@@ -74,6 +75,7 @@
 <script>
 import Side from "./components/Side.vue";
 import Footer from "./components/Footer.vue";
+// import Slider from "./components/Slider.vue";
 
 export default {
   name: "App",
