@@ -62,6 +62,7 @@
         >
       </div>
     </header>
+    
     <div id="content">
       <div class="container clearfix">
         <router-view class="slide-in-left" />
@@ -74,6 +75,7 @@
 <script>
 import Side from "./components/Side.vue";
 import Footer from "./components/Footer.vue";
+// import Slider from "./components/Slider.vue";
 
 export default {
   name: "App",
@@ -159,7 +161,7 @@ export default {
   background-color:  #006699;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
+  z-index: 100;
 }
 
 /* Style the links inside the dropdown */
