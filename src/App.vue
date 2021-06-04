@@ -14,15 +14,19 @@
       <div class="top-header">
         <div class="container clearfix"></div>
       </div>
-      <div class="topnav clearfix" v-bind:class="{ responsive: isActive }"  id="myTopnav">
-        <router-link to="/" class="active">Home</router-link>
+      <div
+        class="topnav clearfix"
+        v-bind:class="{ responsive: isActive }"
+        id="myTopnav"
+      >
+        <router-link to="/">Home</router-link>
         <div class="dropdown">
           <button class="dropbtn">
             Committees
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-            <router-link  to="/advisory">Advisory Committee</router-link>
+            <router-link to="/advisory">Advisory Committee</router-link>
             <router-link to="/organising">Organising Committee</router-link>
             <router-link to="/technical">Technical Committee</router-link>
           </div>
@@ -57,12 +61,10 @@
         <router-link to="/downloads">Downloads</router-link>
         <router-link to="/partners">Partners</router-link>
         <router-link to="/contact">Contact Us</router-link>
-        <a  class="icon" @click="myFunction()"
-          >&#9776;</a
-        >
+        <a class="icon" @click="myFunction()">&#9776;</a>
       </div>
     </header>
-<Slider> </Slider>
+    <Slider />
 
     <div id="content">
       <div class="container clearfix">
@@ -78,17 +80,14 @@ import Side from "./components/Side.vue";
 import Footer from "./components/Footer.vue";
 import Slider from "./components/Slider.vue";
 
-
-
-
 export default {
   name: "App",
   data() {
     return {
-      isActive: false
+      isActive: false,
     };
   },
-  methods:{
+  methods: {
     myFunction() {
       this.isActive = !this.isActive;
     },
@@ -96,13 +95,12 @@ export default {
   components: {
     Side,
     Footer,
-    Slider
+    Slider,
   },
 };
 </script>
 
 <style>
-
 .slide-in-left {
   -webkit-animation: slide-in-left 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94)
     both;
@@ -249,9 +247,9 @@ export default {
 }
 
 /* Add an active class to highlight the current page */
-.active {
-  text-decoration: underline;
+a.router-link-exact-active {
   color: white;
+  text-decoration-color: 5px solid rgb(255, 255, 255);
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -300,7 +298,7 @@ export default {
 /* Add a dark background on topnav links and the dropdown button on hover */
 .topnav a:hover,
 .dropdown:hover .dropbtn {
-  background-color: #006699;
+  background-color: 0px 8px 16px 0px rgb(0 0 0 / 20%);
   color: white;
 }
 
