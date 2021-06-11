@@ -43,15 +43,15 @@
                 class="dropdown-menu dropdown-primary"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/advisory"
                   >Advisory Committee</router-link
                 >
 
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/organising"
                   >Organising Committee</router-link
                 >
 
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/technical"
                   >Technical Committee</router-link
                 >
               </div>
@@ -71,23 +71,23 @@
                 class="dropdown-menu dropdown-primary"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/call-for-papers"
                   >Call for Papers</router-link
                 >
 
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/tracks"
                   >Tracks / Topics</router-link
                 >
               </div>
             </li>
 
-            <router-link class="nav-link" to="#">Keynote Speakers</router-link>
+            <router-link class="nav-link" to="/speakers">Keynote Speakers</router-link>
 
-            <router-link class="nav-link" to="#">Program Schedule</router-link>
+            <router-link class="nav-link" to="/schedule">Program Schedule</router-link>
 
-            <router-link class="nav-link" to="#">Workshops</router-link>
+            <router-link class="nav-link" to="/workshops">Workshops</router-link>
 
-            <router-link class="nav-link" to="#">Registration</router-link>
+            <router-link class="nav-link" to="/registration">Registration</router-link>
             <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
@@ -102,18 +102,18 @@
                 class="dropdown-menu dropdown-primary"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/india"
                   >About India</router-link
                 >
 
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/raipur"
                   >About Raipur</router-link
                 >
 
                 <router-link class="dropdown-item" to="#"
                   >Travelling to Raipur</router-link
                 >
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/venue"
                   >Conference Venue</router-link
                 >
 
@@ -121,16 +121,16 @@
                   >Accomodation</router-link
                 >
 
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/tourist"
                   >Tourists Attraction</router-link
                 >
               </div>
             </li>
-            <router-link class="nav-link" to="#">Downloads</router-link>
+            <router-link class="nav-link" to="/downloads">Downloads</router-link>
 
-            <router-link class="nav-link" to="#">Partners</router-link>
+            <router-link class="nav-link" to="/partners">Partners</router-link>
 
-            <router-link class="nav-link" to="#">Contact Us</router-link>
+            <router-link class="nav-link" to="/contact">Contact Us</router-link>
           </ul>
           <!-- Links -->
         </div>
