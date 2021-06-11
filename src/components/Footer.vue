@@ -1,6 +1,6 @@
 <template>
   <!-- Footer -->
-  <footer class="page-footer stylish-color-dark mt-4 pt-4">
+  <footer class="page-footer unique-color mt-4 pt-4">
 
     <!-- Footer Links -->
     <div class="container-fluid">
