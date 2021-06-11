@@ -6,49 +6,50 @@
       <div class="card card-body mb-5">
         <!-- Title -->
         <h2 class="font-weight-bold mt-3">
-          <strong>This is title of the news</strong>
+          <strong>About Conference</strong>
         </h2>
 
         <hr class="red title-hr" />
-        <div class="row mx-md-4 px-4 mt-3">
-          <p class="dark-grey-text article">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </p>
-
-          <h4 class="font-weight-bold mt-3 mb-4">
-            <strong>Lorem ipsum dolor sit amet</strong>
-          </h4>
-
-          <p class="dark-grey-text article">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-            aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
-          </p>
-
-          <blockquote class="blockquote">
-            <p class="mb-0">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              posuere erat a ante.
-            </p>
-          </blockquote>
-
-          <p class="dark-grey-text article">
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-            suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis
-            autem vel eum iure reprehenderit qui in ea voluptate velit esse quam
-            nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo
-            voluptas nulla pariatur?
-          </p>
-        </div>
+        <p class="article">
+          ICPC2T will give a chance to the students / academicians / researchers
+          / scientists /practicing engineers to have a platform for potential
+          knowledge exchange on recent trends the theory and practice of Power
+          Systems, Control systems and Computational Technologies. Particularly,
+          emphasis will be placed on promotion of New and Renewable sources of
+          Power, Smart Grid and related cyber-physical systems. This will
+          include new methods and procedures for distributed control, as well as
+          their application to different levels of the grid, ranging from
+          transmission and distribution systems to micro-grids to home energy
+          management. Authors may also discuss various issues related to grid
+          integration of various conventional and non-conventional resources
+          covering distributed generation, grid storage systems and electric
+          vehicles. The design of relevant power electronic systems and fault
+          protection systems will also be in scope. Efficient data processing
+          techniques for all kinds of grid data, including smart meters, phasor
+          measurement unit measurements, grid status reports, etc should be
+          discussed. Applications of data analytics to power systems, such as
+          demand response and demand side management will be considered.
+          Finally, the innovative use of artificial intelligence, machine
+          learning and deep learning and data visualization approaches for the
+          power management in a variety of contexts including efficient network
+          management, improved situational awareness and anomaly detection will
+          be of interest. ICPC2T features invited talks and Keynote address from
+          eminent professors/scientists from across the world, pre-conference
+          workshops/tutorials from active engineers and technical paper
+          presentation of the participants from different parts of the world.
+          All these sessions will cover a wide variety of topics to cater to the
+          needs of specific subject areas for our Research Scholars as well as
+          Faculty members. With the excellent coverage and potential authors,
+          the Proceedings of this conference provide outstanding support to the
+          participants in their research works. ICPC2T is very much focused on
+          the quality of the papers to be presented in the conference. ICPC2T
+          will adopt an excellent system for paper evaluation with
+          national/international reviewers from across the world. The possible
+          plagiarism/duplication would be checked twice through the plagiarism
+          checking software once before the papers are sent for technical review
+          and next at the stage of acceptance. Accepted papers will be submitted
+          for possible inclusion into IEEE Xplore.
+        </p>
       </div>
     </div>
   </div>
@@ -62,3 +63,8 @@ export default {
   components: {},
 };
 </script>
+<style>
+.article {
+  text-align: justify !important;
+}
+</style>

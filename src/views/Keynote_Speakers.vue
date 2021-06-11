@@ -1,5 +1,4 @@
 <template>
-  <div>
     <div class="col-xl-8 col-md-12">
       <!-- Post -->
       <div class="row mt-2 mb-5 pb-3 mx-2">
@@ -47,7 +46,6 @@
         </div>
       </div>
     </div>
-  </div>
 </template>
 
 <script>

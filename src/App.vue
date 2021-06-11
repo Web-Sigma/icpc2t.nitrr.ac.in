@@ -1,12 +1,12 @@
 <template>
-  <div id="app" >
+  <div id="app">
     <!-- Navigation -->
     <header class="">
       <div class="banner">
-        <img src="./assets/header.svg" alt="">
+        <img src="./assets/header.svg" alt="" />
       </div>
       <!-- Navbar -->
-      <nav class="navbar navbar-expand-lg navbar-dark unique-color py-4">
+      <nav class="navbar navbar-expand-lg navbar-dark unique-color ">
         <!-- Navbar brand -->
         <router-link class="navbar-brand" to="/">ICPC2T</router-link>
 
@@ -27,7 +27,6 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <!-- Links -->
           <ul class="navbar-nav mr-auto">
-           
             <!-- Dropdown -->
             <li class="nav-item dropdown">
               <a
@@ -81,13 +80,21 @@
               </div>
             </li>
 
-            <router-link class="nav-link" to="/speakers">Keynote Speakers</router-link>
+            <router-link class="nav-link" to="/speakers"
+              >Keynote Speakers</router-link
+            >
 
-            <router-link class="nav-link" to="/schedule">Program Schedule</router-link>
+            <router-link class="nav-link" to="/schedule"
+              >Program Schedule</router-link
+            >
 
-            <router-link class="nav-link" to="/workshops">Workshops</router-link>
+            <router-link class="nav-link" to="/workshops"
+              >Workshops</router-link
+            >
 
-            <router-link class="nav-link" to="/registration">Registration</router-link>
+            <router-link class="nav-link" to="/registration"
+              >Registration</router-link
+            >
             <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
@@ -117,7 +124,7 @@
                   >Conference Venue</router-link
                 >
 
-                <router-link class="dropdown-item" to="#"
+                <router-link class="dropdown-item" to="/accomodation"
                   >Accomodation</router-link
                 >
 
@@ -126,7 +133,9 @@
                 >
               </div>
             </li>
-            <router-link class="nav-link" to="/downloads">Downloads</router-link>
+            <router-link class="nav-link" to="/downloads"
+              >Downloads</router-link
+            >
 
             <router-link class="nav-link" to="/partners">Partners</router-link>
 
@@ -167,16 +176,12 @@ export default {
     Footer,
   },
   data() {
-    return {
-      
-    };
+    return {};
   },
- 
 };
 </script>
 <style scoped>
 a.router-link-exact-active {
-  color: #fff;
   border-bottom: 3px solid;
   text-decoration-color: 5px solid rgb(255, 255, 255);
 }

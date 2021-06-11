@@ -17,8 +17,7 @@ import Advisory_Committee from '../views/Advisory_Committee.vue'
 import Organising_Committee from '../views/Organising_Committee.vue'
 import Technical_Committee from '../views/Technical_Committee.vue'
 import TouristAttraction from '../views/Tourist_Attraction.vue'
-
-Vue.use(VueRouter)
+import Accomodation from '../views/Accomodation.vue'
 Vue.use(VueRouter)
 
 
@@ -107,6 +106,11 @@ const routes = [
     path: '/tourist',
     name: 'TouristAttraction',
     component: TouristAttraction
+  },
+  {
+    path: '/accomodation',
+    name: 'Accomodation',
+    component: Accomodation
   },
 ]
 
