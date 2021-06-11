@@ -185,7 +185,7 @@ a.router-link-exact-active {
 }
 
 .banner {
-  background: rgba(200, 200, 200, 0.8);
+  background: rgba(255, 255, 255, 0.8);
   margin: 0;
   padding: 1em;
 }

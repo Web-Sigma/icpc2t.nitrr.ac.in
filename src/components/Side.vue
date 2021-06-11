@@ -3,109 +3,111 @@
   <div class="col-xl-4 col-md-12 widget-column mt-0">
     <!-- Section: Categories -->
     <section class="section mb-5">
-      <h4 class="font-weight-bold mt-2">
-        <strong>CATEGORIES</strong>
+      <h4 class=" mt-2 text-center">
+        <strong>ANNOUNCEMENT</strong>
       </h4>
 
       <hr class="red title-hr" />
+      <div class="card card-body d-flex text-center">
+        <p class="card-text red-text ">
+          <marquee
+            direction="up"
+            height="150px"
+            scrollamount="2"
+            scrolldelay="3"
+            onmouseover="this.stop();"
+            onmouseout="this.start();"
+          >
+            Deadline for Full Paper Submission extended to 31st August,2021
+          </marquee>
+        </p>
+      </div>
+    </section>
+    <!-- Section: Categories -->
 
+    <hr class="my-3" />
+    <!-- Section: Advertisment -->
+    <section class="section mt-5">
+      <!-- Jumbotron -->
+
+      <h4 class=" mt-2 text-center">
+        <strong>IMPORTANT DATES</strong>
+      </h4>
+      <hr class="red title-hr" />
       <ul class="list-group z-depth-1 mt-4">
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          <a>Business</a>
-
-          <span class="badge badge-danger badge-pill">4</span>
+          Deadline for Full Paper Submission(Final Deadline) : 31st August 2021
         </li>
-
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          <a>Entertainment</a>
-
-          <span class="badge badge-danger badge-pill">2</span>
+          Decision on Papers : 31st October 2021
         </li>
-
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          <a>Health</a>
-
-          <span class="badge badge-danger badge-pill">1</span>
+          Final Revised Paper Submission : 15th November 2021
         </li>
-
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          <a>Lifestyle</a>
-
-          <span class="badge badge-danger badge-pill">2</span>
-        </li>
-
-        <li
-          class="list-group-item d-flex justify-content-between align-items-center"
-        >
-          <a>Photography</a>
-
-          <span class="badge badge-danger badge-pill">1</span>
-        </li>
-
-        <li
-          class="list-group-item d-flex justify-content-between align-items-center"
-        >
-          <a>Technology</a>
-
-          <span class="badge badge-danger badge-pill">2</span>
-        </li>
-
-        <li
-          class="list-group-item d-flex justify-content-between align-items-center"
-        >
-          <a>Sport</a>
-
-          <span class="badge badge-danger badge-pill">5</span>
+          Registration Deadline : 30th November 2021
         </li>
       </ul>
-    </section>
-    <!-- Section: Categories -->
-
-    <!-- Section: Advertisment -->
-    <section class="section mt-5">
-      <h6 class="grey-text text-center mb-3">
-        <strong>- Advertisment -</strong>
-      </h6>
-
+      <!-- Text -->
+      <hr class="my-3" />
       <!-- Jumbotron -->
-      <div class="card card-body text-center">
-        <!-- Title -->
-        <h1 class="card-title h2-responsive mt-2">
-          <strong>Material Design for Bootstrap</strong>
-        </h1>
+    </section>
+    <!-- Section: Advertisment -->
+    <!-- <section class="section mb-5">
+      <h4 class=" mt-2 text-center">
+        <strong>Our Partners</strong>
+      </h4>
 
-        <!-- Subtitle -->
-        <p class="blue-text mb-4 mt-5 font-weight-bold">
-          Powerful and free Material Design UI KIT
+      <hr class="red title-hr" />
+      <div class="card card-body d-flex text-center">
+        <p class="card-text red-text ">
         </p>
-
-        <!-- Text -->
-        <div class="d-flex justify-content-center">
-          <p class="card-text" style="max-width: 43rem;">
-            Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium
-            doloremque laudantium, totam rem aperiam.
-          </p>
-        </div>
-
-        <hr class="my-3" />
-
-        <button type="button" class="btn btn-primary btn-sm waves-effect">
-          Buy now
-
-          <span class="far fa-gem ml-1"></span>
-        </button>
       </div>
-      <!-- Jumbotron -->
+    </section> -->
+    <section class="section mb-5">
+      <h4 class=" mt-2 text-center">
+        <strong>TECHNICAL SPONSORS</strong>
+      </h4>
+
+      <hr class="red title-hr" />
+      <div class="card card-body d-flex text-center">
+        <p class="card-text red-text ">
+          <carousel
+            :per-page="1"
+            :mouse-drag="true"
+            :loop="true"
+            :autoplay="true"
+          >
+            <slide>
+              <img src="@/assets/partners/bombaysection.png" alt="" />
+            </slide>
+            <slide>
+              <img src="@/assets/partners/csphcl_01.jpg" alt="" /> </slide
+            ><slide>
+              <img src="@/assets/partners/ieeespons.png" alt="" />
+            </slide>
+          </carousel>
+        </p>
+      </div>
     </section>
-    <!-- Section: Advertisment -->
+    <section class="section mb-5">
+      <h4 class=" mt-2 text-center">
+        <strong>BROCHURE</strong>
+      </h4>
+
+      <hr class="red title-hr" />
+      <div class="card card-body d-flex text-center">
+        <p class="card-text blue-text ">Download ICPC<sup>2</sup>T 2021 - Brochure <a href="/books/a-great-book.pdf" class="red-text" target="_blank"><i class="fas fa-file-pdf"></i></a></p>
+      </div>
+    </section>
   </div>
   <!-- Sidebar -->
 </template>
@@ -113,8 +115,11 @@
 <script>
 export default {
   name: "Side",
-
 };
 </script>
-
-
+<style scoped>
+img {
+  width: 100%;
+  height: 100%;
+}
+</style>
