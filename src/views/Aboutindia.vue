@@ -121,7 +121,7 @@ export default {
   name: "AboutIndia",
 };
 </script>
-<style scoped>
+<style >
 h3 {
   border-bottom: 5px solid black;
   padding: 5px 0;
