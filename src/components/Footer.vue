@@ -1,213 +1,108 @@
 <template>
   <!-- Footer -->
-  <footer class="page-footer unique-color mt-4 pt-4">
-
+  <footer class="page-footer unique-color mt-3">
     <!-- Footer Links -->
     <div class="container-fluid">
-
-      <!-- Footer links -->
-      <div class="row text-center text-md-left mt-3 pb-3">
-
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-3 col-xl-3 mr-auto mt-3">
-
-          <h6 class="text-uppercase mb-4 font-weight-bold">Company name</h6>
-
-          <p>Here you can use rows and columns here to organize your footer content. Lorem ipsum dolor sit amet,
-
-            consectetur
-
-            adipisicing elit.</p>
-
-        </div>
-
-        <!-- Grid column -->
-        <hr class="w-100 clearfix d-md-none">
-
-        <!-- Grid column -->
-        <div class="col-md-2 col-lg-2 col-xl-2 mr-auto mt-3">
-
-          <h6 class="text-uppercase mb-4 font-weight-bold">Products</h6>
-
-          <p>
-
-            <a href="#!">MDBootstrap</a>
-
-          </p>
-
-          <p>
-
-            <a href="#!">MDWordPress</a>
-
-          </p>
-
-          <p>
-
-            <a href="#!">BrandFlow</a>
-
-          </p>
-
-          <p>
-
-            <a href="#!">Bootstrap Angular</a>
-
-          </p>
-
-        </div>
-
-        <!-- Grid column -->
-        <hr class="w-100 clearfix d-md-none">
-
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-2 col-xl-2 mr-auto mt-3">
-
-          <h6 class="text-uppercase mb-4 font-weight-bold">Useful links</h6>
-
-          <p>
-
-            <a href="#!">Your Account</a>
-
-          </p>
-
-          <p>
-
-            <a href="#!">Become an Affiliate</a>
-
-          </p>
-
-          <p>
-
-            <a href="#!">Shipping Rates</a>
-
-          </p>
-
-          <p>
-
-            <a href="#!">Help</a>
-
-          </p>
-
-        </div>
-
-        <!-- Third column -->
-        <hr class="w-100 clearfix d-md-none">
-
-        <!-- Grid column -->
-        <div class="col-md-4 col-lg-3 col-xl-3 mr-auto mt-3">
-
-          <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
-
-          <p>
-
-            <i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
-
-          <p>
-
-            <i class="fas fa-envelope mr-3"></i> info@example.com</p>
-
-          <p>
-
-            <i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
-
-          <p>
-
-            <i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
-
-        </div>
-        <!-- Grid column -->
-
-      </div>
-      <!-- Footer links -->
-
-      <hr>
+      <hr />
 
       <div class="row py-3 d-flex align-items-center">
-
         <!-- Grid column -->
         <div class="col-md-7 col-lg-8">
-
           <!-- Copyright -->
           <p class="text-center text-md-left grey-text">
-
-            © 2019 Copyright: <a href="https://mdbootstrap.com/education/bootstrap/" target="_blank"> MDBootstrap.com
-
+            © 2021 Copyright:
+            <a href="https://nitrr.ac.in" target="_blank">
+              National Intitute of technology, Raipur
             </a>
-
           </p>
           <!-- Copyright -->
-
         </div>
         <!-- Grid column -->
 
         <!-- Grid column -->
-        <div class="col-md-5 col-lg-4 ml-lg-0">
-
-          <!-- Social buttons -->
-          <div class="social-section text-center mr-auto text-md-left">
-
-            <ul class="list-unstyled list-inline">
-
-              <li class="list-inline-item">
-
-                <a class="btn-floating btn-sm rgba-white-slight">
-
-                  <i class="fab fa-facebook-f"></i>
-
-                </a>
-
-              </li>
-
-              <li class="list-inline-item">
-
-                <a class="btn-floating btn-sm rgba-white-slight">
-
-                  <i class="fab fa-twitter"></i>
-
-                </a>
-
-              </li>
-
-              <li class="list-inline-item">
-
-                <a class="btn-floating btn-sm rgba-white-slight">
-
-                  <i class="fab fa-google-plus-g"></i>
-
-                </a>
-
-              </li>
-
-              <li class="list-inline-item">
-
-                <a class="btn-floating btn-sm rgba-white-slight">
-
-                  <i class="fab fa-linkedin-in"></i>
-
-                </a>
-
-              </li>
-
-            </ul>
-
-          </div>
-          <!-- Social buttons -->
-
-        </div>
+        <!-- <div class="col-md-5 col-lg-4 ml-lg-0">
+      <div class=" text-center mr-auto text-md-left">
+            <div class="dropup">
+              <button class="dropbtn text-center grey-text">Developers</button>
+              <div class="dropup-content">
+                <div  v-for="item in contributor" :key="item.id">
+                <a :href="item.url"> <img :src="item.avatar_url" :alt="item.login"></a>
+                </div>
+              </div>
+            </div>
+          </div> 
+        </div>-->
         <!-- Grid column -->
-
       </div>
-
     </div>
-
   </footer>
   <!-- Footer -->
 </template>
 
 <script>
 export default {
-  name: 'Footer',
-
-}
+  name: "Footer",
+  data(){
+    return{
+      contributor:[]
+    };
+  },
+  // created(){
+  //   fetch("https://api.github.com/repos/Web-Sigma/icpc2t.nitrr.ac.in/contributors")
+  //   .then(response => {
+  //     this.contributor=response.json;
+  //     console.log(this.contributor)
+  //   })
+  // }
+};
 </script>
+<style scoped>
+.dropbtn {
+  background-color:transparent;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
 
+/* The container <div> - needed to position the dropup content */
+.dropup {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropup content (Hidden by Default) */
+.dropup-content {
+  display: none;
+  position: absolute;
+  bottom: 50px;
+  background-color: #ffffff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropup */
+.dropup-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropup links on hover */
+.dropup-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropup menu on hover */
+.dropup:hover .dropup-content {
+  display: block;
+}
+
+/* Change the background color of the dropup button when the dropup content is shown */
+.dropup:hover .dropbtn {
+  background-color: #2980b9;
+}
+</style>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
