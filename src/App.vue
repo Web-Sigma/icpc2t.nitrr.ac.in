@@ -1,11 +1,14 @@
 <template>
-  <div id="app">
+  <div id="app" >
     <!-- Navigation -->
-    <header>
+    <header class="">
+      <div class="banner">
+        <img src="./assets/header.svg" alt="">
+      </div>
       <!-- Navbar -->
-      <nav class="navbar navbar-expand-lg navbar-dark unique-color">
+      <nav class="navbar navbar-expand-lg navbar-dark unique-color py-4">
         <!-- Navbar brand -->
-      <router-link class="navbar-brand" to="/">ICPC2T</router-link>
+        <router-link class="navbar-brand" to="/">ICPC2T</router-link>
 
         <!-- Collapse button -->
         <button
@@ -163,5 +166,27 @@ export default {
     Carousel,
     Footer,
   },
+  data() {
+    return {
+      
+    };
+  },
+ 
 };
 </script>
+<style scoped>
+a.router-link-exact-active {
+  color: #fff;
+  border-bottom: 3px solid;
+  text-decoration-color: 5px solid rgb(255, 255, 255);
+}
+.sampleContent {
+  padding: 4em 0 4em 0;
+}
+
+.banner {
+  background: rgba(200, 200, 200, 0.8);
+  margin: 0;
+  padding: 1em;
+}
+</style>

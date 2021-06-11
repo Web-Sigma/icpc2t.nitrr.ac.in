@@ -29,5 +29,14 @@
   <script type="text/javascript" src="./js/bootstrap.min.js"></script>
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="./js/mdb.min.js"></script>
+<script>
+  $(window).scroll(function(){
+   if ($(window).scrollTop() < 150) {
+    $(".navbar").removeClass("fixed-top");
+ } else {
+    $(".navbar").addClass("fixed-top");
+ }
+});
+</script>
   </body>
 </html>

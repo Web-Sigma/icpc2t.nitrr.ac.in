@@ -3933,14 +3933,14 @@ table.table a.btn.btn-black {
 }
 */
 .navbar {
-  font-weight: 300;
+  font-weight: 350;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); }
   .navbar form .md-form input {
     margin: 0 5px 1px 8px; }
   .navbar .breadcrumb {
     padding: 0.3rem 0 0 1rem;
     margin: 0;
-    font-size: 15px;
+    font-size: 30px;
     font-weight: 300;
     background-color: inherit; }
     .navbar .breadcrumb .breadcrumb-item {
