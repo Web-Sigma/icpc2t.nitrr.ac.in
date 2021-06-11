@@ -112,6 +112,8 @@ const routes = [
     name: 'Accomodation',
     component: Accomodation
   },
+  { path: "*", component: Home }
+
 ]
 
 const router = new VueRouter({
