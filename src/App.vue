@@ -4,29 +4,34 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
-    <router-view/>
+    <Navbar />
+    <Carousel />
+    <!-- Main layout -->
+    <main>
+      <div class="container-fluid">
+        <!-- Magazine -->
+        <div class="row mt-2">
+          <router-view />
+          <Side />
+        </div>
+        <!-- Magazine -->
+      </div>
+    </main>
+    <Footer />
   </div>
 </template>
+<script>
+import Navbar from "./components/Navbar.vue";
+import Side from "./components/Side.vue";
+import Carousel from "./components/Carousel.vue";
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+import Footer from "./components/Footer.vue";
+export default {
+  name: "App",
+  components: {
+    Navbar,
+    Side,Carousel,Footer
+  },
+};
+</script>
 
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
