@@ -99,7 +99,7 @@ export default {
 
 <style scoped>
 img {
-  max-height: 250px;
+  max-height: 230px;
   width:100%;
 }
 </style>
