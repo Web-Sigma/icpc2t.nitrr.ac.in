@@ -10,7 +10,7 @@
         <hr class="red title-hr" />
 
         <p class="article">
-          ICPC<sup>2</sup>T 2020 invites full length original research
+          ICPC<sup>2</sup>T 2021 invites full length original research
           contributions from researchers/professionals from industries, R&amp;D
           organizations, academic institutions and government departments from
           across the world. Full length original research contributions and
@@ -43,7 +43,7 @@
           regarding submission may be addressed to
           <strong>icpc2t@nitrr.ac.in</strong>.
           <strong
-            >The proceedings of ICPC<sup>2</sup>T 2020 will be submitted for
+            >The proceedings of ICPC<sup>2</sup>T 2021 will be submitted for
             indexing in IEEE Explore.</strong
           >
         </p>
@@ -60,7 +60,7 @@
         <address>
           <span
             ><strong>Step 2 (Under Screening)</strong> Initial screening review
-            will be done by the Technical Program Committee of ICPC2T 2020.
+            will be done by the Technical Program Committee of ICPC2T 2021.
             Initial screening includes relevance to the conference topic,
             plagiarism***, organization of the paper, quality of
             figures/diagrams/illustrations/equations and technical novelty
@@ -133,7 +133,7 @@
         </address>
         <address>
           <span style="font-size: 10pt"
-            >*** TPC of ICPC2T 2020 will check for possible plagiarism TWICE,
+            >*** TPC of ICPC2T 2021 will check for possible plagiarism TWICE,
             first after receiving the paper and then at the stage of acceptance.
             Though ICPC2T will carefully check for plagiarism, there are some
             possibilities for wrong plagiarism results, hence ICPC2T encourages
@@ -148,7 +148,7 @@
         <p>
           <span><strong>The Organizing Chair,</strong></span
           ><br />
-          <span>ICPC<sup>2</sup>T 2020,</span><br />
+          <span>ICPC<sup>2</sup>T 2021,</span><br />
           <span>National Institute of Technology,</span><br />
           <span> Raipur, Chhattisgarh, India.</span><br />
 
