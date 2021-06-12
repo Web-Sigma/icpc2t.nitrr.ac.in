@@ -8,6 +8,7 @@
           <strong>Registration</strong>
         </h2>
         <p class="article"></p>
+        <div class="FixedHeightContainer">
         <table
           class="MsoNormalTable"
           border="1"
@@ -15,6 +16,7 @@
           cellpadding="0"
           style="border-collapse: collapse; border: medium none"
         >
+        <div class="Content">
           <tbody>
             <tr>
               <td
@@ -997,7 +999,9 @@
               </td>
             </tr>
           </tbody>
+          </div>
         </table>
+        </div>
         <p class="article"></p>
         <p class="article">
           <strong>Registration Fee Includes:</strong>
@@ -1050,6 +1054,7 @@
             >Banking details for registration (only for Indian authors)</strong
           >
         </p>
+        <div class="FixedHeightContainer">
         <table
           class="MsoNormalTable"
           border="1"
@@ -1057,6 +1062,7 @@
           cellpadding="0"
           style="border-collapse: collapse; border: medium none"
         >
+        <div class="Content">
           <tbody>
             <tr>
               <td
@@ -1512,7 +1518,9 @@
               </td>
             </tr>
           </tbody>
+          </div>
         </table>
+        </div>
         <strong>
           <p class="article">* Please indicate on transfer: PAPER_ID_ICPC2T</p>
         </strong>
@@ -1544,4 +1552,27 @@ export default {
   name: "Registration",
 };
 </script>
+
+<style scoped>
+@media (max-width:400px){
+.FixedHeightContainer
+{
+
+  height: 350px;
+  width:100%; 
+  padding:3px; 
+  
+}
+}
+
+@media (max-width:400px)  {
+  .Content
+{
+  width:290px;
+   overflow:auto;
+    
+}
+}
+
+</style>
 
