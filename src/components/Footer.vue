@@ -15,23 +15,20 @@
               National Intitute of technology, Raipur
             </a>
           </p>
+           
           <!-- Copyright -->
         </div>
         <!-- Grid column -->
 
         <!-- Grid column -->
-        <!-- <div class="col-md-5 col-lg-4 ml-lg-0">
+        <div class="col-md-5 col-lg-4 ml-lg-0">
       <div class=" text-center mr-auto text-md-left">
             <div class="dropup">
-              <button class="dropbtn text-center grey-text">Developers</button>
-              <div class="dropup-content">
-                <div  v-for="item in contributor" :key="item.id">
-                <a :href="item.url"> <img :src="item.avatar_url" :alt="item.login"></a>
-                </div>
-              </div>
+              <button class="dropbtn text-center ">Developers: Jay Prakash & Anmol Agrawal </button>
+              
             </div>
           </div> 
-        </div>-->
+        </div>
         <!-- Grid column -->
       </div>
     </div>
