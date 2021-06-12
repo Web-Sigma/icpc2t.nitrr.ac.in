@@ -122,4 +122,7 @@ img {
   width: 100%;
   height: 100%;
 }
+li:hover{
+  background-color: rgb(184, 221, 248);
+}
 </style>

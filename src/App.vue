@@ -8,7 +8,7 @@
       <!-- Navbar -->
       <nav class="navbar navbar-expand-lg navbar-dark unique-color ">
         <!-- Navbar brand -->
-        <router-link class="navbar-brand" to="/">ICPC2T</router-link>
+        <router-link class="navbar-brand" to="/">ICPC<sup>2</sup>T</router-link>
 
         <!-- Collapse button -->
         <button
