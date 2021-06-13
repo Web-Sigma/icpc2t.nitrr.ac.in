@@ -205,4 +205,9 @@ a.router-link-exact-active {
 [v-cloak] {
   display: none;
 }
+@media (max-width:1600px){
+  main{
+    padding-top: 0px;
+  }
+}
 </style>
