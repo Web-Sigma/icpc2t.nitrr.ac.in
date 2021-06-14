@@ -11,18 +11,17 @@
         <div class="content">
           <p class="article">
             <br /><span class="heading">Chief Patron(s)</span><br />
-            <span
-              >Dr. A. M. Rawani, Director, NIT Raipur</span
-            ><br />
+            <span>Dr. A. M. Rawani, Director, NIT Raipur</span><br />
             <br /><span class="heading">Patron(s)</span><br />
             <span
-              >Dr. Shubhrata Gupta, Dean (Research &amp; Consultancy), NIT Raipur</span
-            ><br /><span>
-              Dr. Shrish Verma, Dean (Academics), NIT Raipur</span
+              >Dr. Shubhrata Gupta, Dean (Research &amp; Consultancy), NIT
+              Raipur</span
+            ><br /><span> Dr. Shrish Verma, Dean (Academics), NIT Raipur</span
             ><br />
             <br /><span class="heading">Honorary Chair</span><br />
             <span
-              >Prof. Frede Blaabjerg, Professor, Villum Investigator, Aalborg University, Denmark</span
+              >Prof. Frede Blaabjerg, Professor, Villum Investigator, Aalborg
+              University, Denmark</span
             ><br />
             <span
               >Prof. Vivek Agarwal, Institute Chair Professor, EED,
@@ -33,16 +32,13 @@
               Bombay</span
             ><br />
             <br /><span class="heading">General Chairs</span><br />
-            <span
-              >Dr. Narendra D. Londhe, NIT Raipur</span
-            ><br />
-            <br /><span class="heading">Coordinators/ Organizing Secretaries</span
+            <span>Dr. Narendra D. Londhe, NIT Raipur</span><br />
+            <br /><span class="heading"
+              >Coordinators/ Organizing Secretaries</span
             ><br />
             <span>Dr. Sachin Jain, NIT Raipur </span><br />
             <span>Dr. Swapnajit Patnaik, NIT Raipur </span><br />
-            <span>
-              Dr. Ebha Koley, NIT Raipur </span
-            ><br />
+            <span> Dr. Ebha Koley, NIT Raipur </span><br />
             <br /><span class="heading">Publication Chairs</span><br />
             <span>Prof. P. D. Dewangan, NIT Raipur</span><br />
             <span>Dr. S. Ghosh, NIT Raipur</span><br />
@@ -59,6 +55,12 @@
             <span>Dr. B. Shaw, NIT Raipur </span><br />
             <span>Dr Lalit Kumar, NIT Raipur</span><br />
             <span>Dr. Baidyanath Bag, NIT Raipur</span><br />
+            <br /><span class="heading">Track Chair</span><br />
+            <span>Dr. Amit Kumar Jain, IIT Delhi </span><br />
+            <span>P. Sanjeevikumar, Aarhus University, Herning, Denmark </span
+            ><br />
+            <span>Dr. Anmol Saxena, NIT Delhi </span><br />
+            <span>K. Chandrasekaran, NIT Raipur </span><br />
           </p>
         </div>
       </div>
