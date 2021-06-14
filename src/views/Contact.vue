@@ -16,21 +16,20 @@
             >
           </p>
           <p class="article">
-            <span style="font-size: 12pt"><strong>Dr. R N Patel</strong></span
+            <span><strong>Dr. Sachin Jain</strong></span> - <a href="tel:+919441700975">9441700975</a><br />
+            <span><strong>Dr. Swapnajit Patnaik</strong></span> - <a href="tel:+919301199854">9301199854</a><br />
+            <span><strong>Dr. Ebha Koley</strong></span> - <a href="tel:+919827215396">9827215396</a><br />
+            <span
+              >E-mail:
+              <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a></span
             ><br />
-            <span style="font-size: 12pt">Organizing Chair,</span><br />
-            <span style="font-size: 12pt">ICPC<sup>2</sup>T 2020,</span><br />
-            <span style="font-size: 12pt">National Institute of Technology</span
-            ><br />
-            <span style="font-size: 12pt">
-              Raipur, Chhattisgarh - 492010, India</span
-            ><br />
+            <span>ICPC<sup>2</sup>T 2021,</span><br />
+            <span
+              >National Institute of Technology Raipur – 492010, Chhattisgarh,
+              India.</span
+            >
 
-            <span style="font-size: 12pt"
-              >E-mail: <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a></span
-            ><br />
-
-            <span style="font-size: 12pt"><br /> </span>
+            <span><br /> </span>
           </p>
         </div>
         <!-- entry-content clearfix-->
@@ -46,3 +45,8 @@ export default {
   name: "Contact",
 };
 </script>
+<style scoped>
+span {
+  font-size: 12pt;
+}
+</style>
