@@ -57,10 +57,10 @@
             <span>Dr. Baidyanath Bag, NIT Raipur</span><br />
             <br /><span class="heading">Track Chair</span><br />
             <span>Dr. Amit Kumar Jain, IIT Delhi </span><br />
-            <span>P. Sanjeevikumar, Aarhus University, Herning, Denmark </span
+            <span>Dr. P. Sanjeevikumar, Aarhus University, Herning, Denmark </span
             ><br />
             <span>Dr. Anmol Saxena, NIT Delhi </span><br />
-            <span>K. Chandrasekaran, NIT Raipur </span><br />
+            <span>Dr. K. Chandrasekaran, NIT Raipur </span><br />
           </p>
         </div>
       </div>

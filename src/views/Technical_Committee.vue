@@ -33,15 +33,16 @@
           <span> Dr. P. Sanjeevikumar, Aarhus University, Herning, Denmark</span
           ><br />
           <span> Dr. Dattatraya N Gaonkar, NITK, Surathkal</span><br />
-          <span> Dr.V. S. Kale, VNIT Nagpur</span><br />
+          <span> Dr. V. S. Kale, VNIT Nagpur</span><br />
           <span> Dr. Mohammad Pazoki, Damghan University, Damghan, Iran</span
           ><br />
           <span> Dr. Ritesh Keshri, VNIT Nagpur</span><br />
           <span> Dr. Pradyumn Chaturvedi, VNIT Nagpur</span><br />
-          <span> Dr Sudharshan Karthik, IIST Thiruvanantapuram</span><br />
-          <span> Dr A Kirubakaran, NIT Warangal</span><br />
+          <span> Dr. Sudharshan Karthik, IIST Thiruvanantapuram</span><br />
+          <span> Dr. A Kirubakaran, NIT Warangal</span><br />
           <span> Dr. B. Venugopal Reddy, NIT Goa</span><br />
           <span> Dr. Shreeraj E S, NIT Goa</span><br />
+          <span> Dr. V. Mahajan, SVNIT Surat</span><br />
         </p>
       </div>
     </div>
