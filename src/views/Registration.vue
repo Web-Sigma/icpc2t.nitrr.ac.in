@@ -146,6 +146,7 @@
 <li> Details of the Online mode of presentation will be made available in the ICPC2T 2021 conference website as and when applicable.</li>
         </ul>
 </p>
+<p><img class="logo-small" src="@/assets/ieee-humanities-logo.png" alt=""><img class="logo-large" src="@/assets/ieee-xplore-logo.png" alt=""></p>
 <p class="article red-text">Participants are instructed to fill REGISTRATION FORM (Google form)</p>
 
       </div>
@@ -160,6 +161,12 @@ export default {
 </script>
 
 <style scoped>
+.logo-small{
+  height: 40%;width: 40%;
+}
+.logo-large{
+    height: 60%;width: 60%;
+}
 .tg {
   border-collapse: collapse;
   border-color: #ccc;

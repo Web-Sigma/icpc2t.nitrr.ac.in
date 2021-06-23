@@ -50,7 +50,7 @@
                   >
 
                   <router-link class="dropdown-item" to="/new/organising"
-                    >Organising Committee</router-link
+                    >Organizing Committee</router-link
                   >
 
                   <router-link class="dropdown-item" to="/new/technical"
@@ -161,7 +161,7 @@
         <div class="container-fluid">
           <!-- Magazine -->
           <div class="row mt-2">
-              <slot />
+            <slot />
             <Side />
           </div>
           <!-- Magazine -->
@@ -205,8 +205,8 @@ a.router-link-exact-active {
 [v-cloak] {
   display: none;
 }
-@media (max-width:1600px){
-  main{
+@media (max-width: 1600px) {
+  main {
     padding-top: 0px;
   }
 }

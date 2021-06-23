@@ -18,13 +18,13 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-            Deadline for Full Paper Submission extended to 31st August,2021
+            Deadline for Full Paper Submission is 31st August,2021
             <br /><br />
             Venue : Department of Electrical Engineering, National Institute of
             Technology, Raipur, India
             <br /><br />
-            Submission Information : Through Easy Chair (<a
-              href="https://easychair.org/conf- erences/?conf=icpc2t2020" target="_blank"
+            Submission Information : The Conference Management Toolkit (CMT) sponsored by Microsoft Research (<a
+              href="https://cmt3.research.microsoft.com/" target="_blank"
               >click here</a
             >)
           </marquee>
@@ -46,7 +46,7 @@
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Deadline for Full Paper Submission(Final Deadline) : 31st August 2021
+          Deadline for Full Paper Submission : 31st August 2021
         </li>
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
@@ -97,8 +97,8 @@
             <slide>
               <img src="@/assets/partners/bombaysection.png" alt="" />
             </slide>
-            <slide> <img src="@/assets/partners/csphcl_01.jpg" alt="" /> </slide
-            ><slide>
+            <!-- <slide> <img src="@/assets/partners/csphcl_01.jpg" alt="" /> </slide> -->
+            <slide>
               <img src="@/assets/partners/ieeespons.png" alt="" />
             </slide>
           </carousel>
