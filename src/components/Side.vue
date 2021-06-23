@@ -18,7 +18,7 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-            Deadline for Full Paper Submission is 31st August,2021
+            Deadline for Full Paper Submission : 31st August 2021
             <br /><br />
             Venue : Department of Electrical Engineering, National Institute of
             Technology, Raipur, India

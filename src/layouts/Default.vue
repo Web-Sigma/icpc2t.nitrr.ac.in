@@ -27,7 +27,7 @@
           </button>
 
           <!-- Collapsible content -->
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <div class="collapse navbar-collapse" id="navbarSupportedContent" :key="$route.path" >
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
               <!-- Dropdown -->
@@ -186,6 +186,11 @@ export default {
   data() {
     return {};
   },
+  watch: {
+    '$route' () {
+      this.$root.$emit('button::toggle::collapse', 'navbar-toggler')
+    }
+  }
 };
 </script>
 <style scoped>
