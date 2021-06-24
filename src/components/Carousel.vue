@@ -1,5 +1,6 @@
 <template>
   <!-- Carousel Wrapper -->
+  <!-- Second ieee Icpc2t virtual conference - schedule | All accepted & presented papers will be published in IEEE Xplore (Proceedings indexed in Scopus) | Fully Virtual presentations -->
   <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
 
  <carousel 
