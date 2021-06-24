@@ -24,7 +24,7 @@
         <div class="col-md-5 col-lg-4 ml-lg-0">
       <div class=" text-center mr-auto text-md-left">
             <div class="dropup">
-              <button class="dropbtn text-center ">Developers: Jay Prakash & Anmol Agrawal </button>
+              <button class="dropbtn text-center grey-text">Developers: Jay Prakash & Anmol Agrawal </button>
               
             </div>
           </div> 
