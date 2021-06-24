@@ -135,7 +135,7 @@
           </li>
         </ul>
        </p>
-        <p class="article red-text"> All the papers orally presented in the Conference will be submitted to IEEE Xplore for inclusion into (Scopus indexed)</p>
+        <p class="article red-text"> All the presented papers in the conference will only be submitted to IEEE for inclusion into IEEE Xplore which is Scopus indexed.</p>
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
         <ul>
