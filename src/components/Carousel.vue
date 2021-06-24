@@ -98,15 +98,7 @@
             </div>
             <!--/.Third slide-->
           </slide>
-          <slide>
-            <!--Second slide-->
-            <div class="carousel-item active">
-              <div class="row">
-                <img src="@/assets/banner.jpeg" alt="" />
-              </div>
-            </div>
-            <!--/.Second slide-->
-          </slide>
+          
         </carousel>
       </div>
       <!-- Carousel Wrapper -->
