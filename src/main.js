@@ -1,9 +1,16 @@
 import Vue from 'vue'
-import App from './App.vue'
+import App from './newApp.vue'
 import router from './router'
 import VueCarousel from 'vue-carousel';
 
-Vue.config.productionTip = false
+import DefaultLayout from "@/layouts/Default.vue";
+import AnotherLayout from "@/layouts/Custom.vue";
+
+Vue.config.productionTip = false;
+
+Vue.component("default-layout", DefaultLayout);
+Vue.component("another-layout", AnotherLayout);
+
  
 Vue.use(VueCarousel);
 new Vue({

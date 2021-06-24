@@ -18,7 +18,15 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-            Deadline for Full Paper Submission extended to 31st August,2021
+            Deadline for Full Paper Submission : 31st August 2021
+            <br /><br />
+            Venue : Department of Electrical Engineering, National Institute of
+            Technology, Raipur, India
+            <br /><br />
+            Submission Information : The Conference Management Toolkit (CMT) sponsored by Microsoft Research (<a
+              href="https://cmt3.research.microsoft.com/" target="_blank"
+              >click here</a
+            >)
           </marquee>
         </p>
       </div>
@@ -38,17 +46,17 @@
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Deadline for Full Paper Submission(Final Deadline) : 31st August 2021
+          Deadline for Full Paper Submission : 31st August 2021
         </li>
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Decision on Papers : 31st October 2021
+          Acceptance Notification : 31st October 2021
         </li>
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Final Revised Paper Submission : 15th November 2021
+          Camera Ready Paper Submission : 15th November 2021
         </li>
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
@@ -89,9 +97,8 @@
             <slide>
               <img src="@/assets/partners/bombaysection.png" alt="" />
             </slide>
+            <!-- <slide> <img src="@/assets/partners/csphcl_01.jpg" alt="" /> </slide> -->
             <slide>
-              <img src="@/assets/partners/csphcl_01.jpg" alt="" /> </slide
-            ><slide>
               <img src="@/assets/partners/ieeespons.png" alt="" />
             </slide>
           </carousel>
@@ -105,7 +112,12 @@
 
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
-        <p class="card-text blue-text ">Download ICPC<sup>2</sup>T 2021 - Brochure <a href="/books/a-great-book.pdf" class="red-text" target="_blank"><i class="fas fa-file-pdf"></i></a></p>
+        <p class="card-text blue-text ">
+          <a href="/brochers.pdf"  target="_blank"
+            >Download ICPC<sup>2</sup>T 2021 - Brochure
+          <i class="fas fa-file-pdf"></i
+          ></a>
+        </p>
       </div>
     </section>
   </div>
@@ -122,7 +134,7 @@ img {
   width: 100%;
   height: 100%;
 }
-li:hover{
+li:hover {
   background-color: rgb(184, 221, 248);
 }
 </style>

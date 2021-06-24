@@ -8,7 +8,7 @@
           <strong>Event Schedule</strong>
         </h2>
         <hr class="red title-hr" />
-        <p style="text-align: justify">Site Under Construction</p>
+        <p style="text-align: justify">Will be Updated Soon.</p>
       </div>
     </div>
   </div>

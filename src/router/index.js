@@ -19,6 +19,7 @@ import Technical_Committee from '../views/Technical_Committee.vue'
 import TouristAttraction from '../views/Tourist_Attraction.vue'
 import Accomodation from '../views/Accomodation.vue'
 import CameraReadySubmission from '../views/CameraReadySubmission.vue'
+import SUC from '../views/Under-Construction.vue'
 Vue.use(VueRouter)
 
 
@@ -118,13 +119,24 @@ const routes = [
     name: 'CameraReadySubmission',
     component: CameraReadySubmission
   },
-  { path: "*", component: Home }
+  { path: "*", component: SUC,
+    meta: {
+      layout: "another-layout"
+    }
+  }
 
 ]
-
+/* eslint-disable */
 const router = new VueRouter({
   base: process.env.BASE_URL,
-  routes
+  routes,
+  scrollBehavior (to, from, savedPosition) {
+    return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        resolve({ x: 0, y: 250 })
+      }, 500)
+    })
+  }
 })
 
 export default router

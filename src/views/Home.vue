@@ -6,49 +6,49 @@
       <div class="card card-body mb-5">
         <!-- Title -->
         <h2 class="font-weight-bold mt-3">
+          <strong>About the Institution</strong>
+        </h2>
+
+        <hr class="red title-hr" />
+        <p class="article">
+          National Institute of Technology Raipur (Formerly Government
+          Engineering College Raipur), situated in the capital of a newly
+          Incepted state of Chhattisgarh, has proven to be "avant-grade' in the
+          field of science and technology over past few decades in this region.
+          With sweet memory of foundation ceremony by our President Hon'ble Dr.
+          Rajendra Prasad on 14th September 1956, the institute started with two
+          departments namely Metallurgical and Mining Engineering. Later the
+          inauguration of the Institute building was done by our Prime Minister
+          Hon'ble Pt. Jawahar Lal Nehru on 14th March 1963. From 1st December
+          2005, the institute has become the National Institute of Technology.
+          The institution has grown in tandem with the major surrounding
+          industries – The Bhilai Steel Plant, SECL BALCO and NTPC Korba. It
+          currently offers 12 Undergraduate and 6 Postgraduate courses including
+          MCA and M.Tech in Applied Geology.
+        </p>
+        <h2 class="font-weight-bold mt-3">
           <strong>About Conference</strong>
         </h2>
 
         <hr class="red title-hr" />
         <p class="article">
-          ICPC2T will give a chance to the students / academicians / researchers
-          / scientists /practicing engineers to have a platform for potential
-          knowledge exchange on recent trends the theory and practice of Power
-          Systems, Control systems and Computational Technologies. Particularly,
-          emphasis will be placed on promotion of New and Renewable sources of
-          Power, Smart Grid and related cyber-physical systems. This will
-          include new methods and procedures for distributed control, as well as
-          their application to different levels of the grid, ranging from
-          transmission and distribution systems to micro-grids to home energy
-          management. Authors may also discuss various issues related to grid
-          integration of various conventional and non-conventional resources
-          covering distributed generation, grid storage systems and electric
-          vehicles. The design of relevant power electronic systems and fault
-          protection systems will also be in scope. Efficient data processing
-          techniques for all kinds of grid data, including smart meters, phasor
-          measurement unit measurements, grid status reports, etc should be
-          discussed. Applications of data analytics to power systems, such as
-          demand response and demand side management will be considered.
-          Finally, the innovative use of artificial intelligence, machine
-          learning and deep learning and data visualization approaches for the
-          power management in a variety of contexts including efficient network
-          management, improved situational awareness and anomaly detection will
-          be of interest. ICPC2T features invited talks and Keynote address from
-          eminent professors/scientists from across the world, pre-conference
-          workshops/tutorials from active engineers and technical paper
-          presentation of the participants from different parts of the world.
-          All these sessions will cover a wide variety of topics to cater to the
-          needs of specific subject areas for our Research Scholars as well as
-          Faculty members. With the excellent coverage and potential authors,
-          the Proceedings of this conference provide outstanding support to the
-          participants in their research works. ICPC2T is very much focused on
-          the quality of the papers to be presented in the conference. ICPC2T
-          will adopt an excellent system for paper evaluation with
-          national/international reviewers from across the world. The possible
-          plagiarism/duplication would be checked twice through the plagiarism
-          checking software once before the papers are sent for technical review
-          and next at the stage of acceptance. Accepted papers will be submitted
-          for possible inclusion into IEEE Xplore.
+          ICPC<sup>2</sup>T will give a chance to the students, academicians,
+          researchers, scientists and practicing engineers to have a platform
+          for potential knowledge exchange on recent trends, theories and
+          practices of Power Systems, Control systems and Computational
+          Technologies. Particularly, emphasis will be placed on promotion of
+          New and Renewable sources of Power, Smart Grid and related
+          cyber-physical systems. Applications of data analytics to power
+          systems, such as demand response and demand side management will be
+          considered. Finally, the innovative use of artificial intelligence,
+          machine learning and deep learning and data visualization approaches
+          for the power management in a variety of contexts including efficient
+          network management, improved situational awareness and anomaly
+          detection will be of interest. ICPC<sup>2</sup>T features invited
+          talks and Keynote address from eminent professors/scientists from
+          across the world, pre-conference workshops/tutorials from active
+          engineers and technical paper presentation of the participants from
+          different parts of the world.
         </p>
       </div>
     </div>

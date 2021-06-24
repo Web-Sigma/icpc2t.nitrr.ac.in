@@ -7,1541 +7,147 @@
         <h2 class="font-weight-bold mt-3">
           <strong>Registration</strong>
         </h2>
-        <p class="article"></p>
-        <div class="FixedHeightContainer">
-        <table
-          class="MsoNormalTable"
-          border="1"
-          cellspacing="0"
-          cellpadding="0"
-          style="border-collapse: collapse; border: medium none"
-        >
-        <div class="Content">
-          <tbody>
-            <tr>
-              <td
-                width="187"
-                colspan="2"
-                rowspan="3"
-                style="
-                    width: 140.45pt;
-                    border: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Category</b>
-                </p>
-              </td>
-              <td
-                width="415"
-                colspan="4"
-                style="
-                    width: 311.3pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Registration Fees</b>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                width="216"
-                colspan="2"
-                style="
-                    width: 161.95pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>National</b>
-                </p>
-              </td>
-              <td
-                width="199"
-                colspan="2"
-                style="
-                    width: 149.35pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>International</b>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                width="132"
-                style="
-                    width: 99.05pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">IEEE Members</span>
-                </p>
-              </td>
-              <td
-                width="84"
-                style="
-                    width: 62.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">Non Members</span>
-                </p>
-              </td>
-              <td
-                width="123"
-                style="
-                    width: 91.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">IEEE Members</span>
-                </p>
-              </td>
-              <td
-                width="77"
-                style="
-                    width: 57.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">Non Members</span>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                width="79"
-                rowspan="3"
-                style="
-                    width: 59pt;
-                    border-left: 1pt solid windowtext;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">Author</span>
-                </p>
-              </td>
-              <td
-                width="109"
-                style="
-                    width: 81.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt"
-                    >Student / Research Scholar(Full Time)</span
-                  >
-                </p>
-              </td>
-              <td
-                width="132"
-                style="
-                    width: 99.05pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">5,000/-</span>
-                </p>
-              </td>
-              <td
-                width="84"
-                style="
-                    width: 62.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">6,000/-</span>
-                </p>
-              </td>
-              <td
-                width="123"
-                style="
-                    width: 91.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">250 USD</span>
-                </p>
-              </td>
-              <td
-                width="77"
-                style="
-                    width: 57.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">350 USD</span>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                width="109"
-                style="
-                    width: 81.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt"> Academician</span>
-                </p>
-              </td>
-              <td
-                width="132"
-                style="
-                    width: 99.05pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">6,000/-</span>
-                </p>
-              </td>
-              <td
-                width="84"
-                style="
-                    width: 62.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">7,000/-</span>
-                </p>
-              </td>
-              <td
-                width="123"
-                style="
-                    width: 91.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">300 USD</span>
-                </p>
-              </td>
-              <td
-                width="77"
-                style="
-                    width: 57.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">400 USD</span>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                width="109"
-                style="
-                    width: 81.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">Industry</span>
-                </p>
-              </td>
-              <td
-                width="132"
-                style="
-                    width: 99.05pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">7,000/-</span>
-                </p>
-              </td>
-              <td
-                width="84"
-                style="
-                    width: 62.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">8,000/-</span>
-                </p>
-              </td>
-              <td
-                width="123"
-                style="
-                    width: 91.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">350 USD</span>
-                </p>
-              </td>
-              <td
-                width="77"
-                style="
-                    width: 57.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">450 USD</span>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                rowspan="3"
-                style="
-                    border-left: 1pt solid windowtext;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">Delegate</span>
-                </p>
-              </td>
-              <td
-                width="109"
-                style="
-                    width: 81.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt"
-                    >Student / Research Scholar(Full Time)</span
-                  >
-                </p>
-              </td>
-              <td
-                width="132"
-                style="
-                    width: 99.05pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">1,000/-</span>
-                </p>
-              </td>
-              <td
-                width="84"
-                style="
-                    width: 62.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">1,500/-</span>
-                </p>
-              </td>
-              <td
-                width="123"
-                style="
-                    width: 91.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">75 USD</span>
-                </p>
-              </td>
-              <td
-                width="77"
-                style="
-                    width: 57.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">125 USD</span>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                width="109"
-                style="
-                    width: 81.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt"> Academician</span>
-                </p>
-              </td>
-              <td
-                width="132"
-                style="
-                    width: 99.05pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">1,500/-</span>
-                </p>
-              </td>
-              <td
-                width="84"
-                style="
-                    width: 62.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">2,000/-</span>
-                </p>
-              </td>
-              <td
-                width="123"
-                style="
-                    width: 91.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">100 USD</span>
-                </p>
-              </td>
-              <td
-                width="77"
-                style="
-                    width: 57.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">150 USD</span>
-                </p>
-              </td>
-            </tr>
-            <tr>
-              <td
-                width="109"
-                style="
-                    width: 81.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">Industry</span>
-                </p>
-              </td>
-              <td
-                width="132"
-                style="
-                    width: 99.05pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">2,000/-</span>
-                </p>
-              </td>
-              <td
-                width="84"
-                style="
-                    width: 62.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">2,500/-</span>
-                </p>
-              </td>
-              <td
-                width="123"
-                style="
-                    width: 91.9pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">125 USD</span>
-                </p>
-              </td>
-              <td
-                width="77"
-                style="
-                    width: 57.45pt;
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: medium none;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      margin-bottom: 0in;
-                      margin-bottom: 0.0001pt;
-                      text-align: center;
-                      line-height: normal;
-                    "
-                >
-                  <span style="font-size: 10pt">175 USD</span>
-                </p>
-              </td>
-            </tr>
-          </tbody>
-          </div>
-        </table>
-        </div>
-        <p class="article"></p>
+        <hr class="red title-hr" />
         <p class="article">
-          <strong>Registration Fee Includes:</strong>
+          Interested participants shall pay the registration fee directly to the
+          bank account. Candidate shall send the filled in workshop registration
+          form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a> on or before
+          15/11/2021. Registration form and payment details are available in the
+          website
         </p>
-        <p class="article"></p>
+        <h3>Registration Fees (Excluding GST *)</h3>
+
+        <div class="FixedHeightContainer">
+          <table class="table-responsive tg">
+            <thead>
+              <tr>
+                <th class="tg-x75h" rowspan="2">
+                  <span class="table-head">Category</span><br /><span
+                    class="table-head"
+                    >(Author)
+                  </span>
+                </th>
+                <th class="tg-x75h" colspan="2">
+                  <span class="table-head">IEEE members</span>
+                </th>
+                <th class="tg-x75h" colspan="2">
+                  <span class="table-head">Non-IEEE members</span>
+                </th>
+              </tr>
+              <tr>
+                <td class="tg-x75h">
+                  <span class="table-head">INR (GST excluded)</span>
+                </td>
+                <td class="tg-x75h">
+                  <span class="table-head">USD (GST excluded)</span>
+                </td>
+                <td class="tg-x75h">
+                  <span class="table-head">INR (GST excluded)</span>
+                </td>
+                <td class="tg-x75h">
+                  <span class="table-head">USD (GST excluded)</span>
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="tg-ltad">
+                  <span class="table-head">Student/Research Scholar</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">4500/- </span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$75</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">5500/-</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$85</span>
+                </td>
+              </tr>
+              <tr>
+                <td class="tg-ltad">
+                  <span class="table-head">Academician</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">5500/-</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$100</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">6500/-</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$110</span>
+                </td>
+              </tr>
+              <tr>
+                <td class="tg-ltad">
+                  <span class="table-head">Industry</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">6000/-</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$110</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">7000/-</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$125</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="article">
+          <br />
+          <strong
+            >Good and Service Tax (GST) will be applied as per Government
+            Directives</strong
+          >
+          <br />
+          <strong>Mode of payment</strong>: On line transaction to the account
+          of Director -
+        </p>
+        <p class="red-text">
+          Account Number: 38027633250, IFSC: SBIN002852, SBI, Raipur
+        </p>
+        <h4>
+            Publications Opportunities
+        </h4>
+        <p class="article">
         <ul>
-          <li>Access to all plenary, technical and workshop sessions.</li>
           <li>
-            Conference Bag and Participant Badge (With photograph, paper ID and
-            session of presentation)
+            Based on the recommendations of the reviewer(s) the selected
+            full-length articles may be published in SCI/SCIE indexed journals
           </li>
           <li>
-            Registration materials, conference guide/program, and giveaway
-            items.
+            The paper will be published in ieeexplore.com.
           </li>
-          <li>Conference Lunch, Tea/Coffee, Snacks.</li>
           <li>
-            CPresentation certificate for each author of the paper (print)
+            Publication charges from Publishers end (if any) are to be borne by
+            the authors.
           </li>
         </ul>
-        <p class="article"></p>
+       </p>
+        <p class="article red-text"> All the papers orally presented in the Conference will be submitted to IEEE Xplore for inclusion into (Scopus indexed)</p>
+      <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
+      <p class="article">
+        <ul>
+<li>The sample paper template is made available on the conference website in Downloads menu.</li>
+<li> The number of pages in the paper should not exceed <strong>six</strong> Papers submitted in the format other than IEEE will not be considered for the conference.</li>
+<li> The authors of the accepted papers will be invited for an oral presentation (virtual mode) in the conference. All the presented papers in the conference will only be submitted to IEEE for inclusion into IEEE Xplore which is Scopus indexed. Registration of at least one author is compulsory for each paper.</li>
+<li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2021 conference website as and when applicable.</li>
+        </ul>
+</p>
+<p><img class="logo-small" src="@/assets/ieee-humanities-logo.png" alt=""><img class="logo-large" src="@/assets/ieee-xplore-logo.png" alt=""></p>
+<p class="article red-text">Participants are instructed to fill REGISTRATION FORM (Google form)</p>
 
-        <p class="article">
-          <strong>Payment Methods and Details</strong>
-        </p>
-        <p class="article">
-          Registration fee can be paid online using
-          <strong>Credit Card / Debit Card / Net Banking</strong> and other
-          payment modes.<br /><br />
-          After making payment, keep a record of your transaction and send the
-          details with receipt at
-          <a class="red-text" href="mailto:icpc2t@nitrr.ac.in"
-            >icpc2t@nitrr.ac.in</a
-          >
-          .<br />
-          Also, fill the registration form at the link given aside (Google
-          Form).<br /><br />
-
-          <strong>Form Link</strong> -
-          <a
-            href="https://forms.gle/BbQ3j84ou17gMaz8A"
-            class="red-text"
-            target="_blank"
-            >https://forms.gle/BbQ3j84ou17gMaz8A</a
-          >
-        </p>
-
-        <p class="article">
-          <strong
-            >Banking details for registration (only for Indian authors)</strong
-          >
-        </p>
-        <div class="FixedHeightContainer">
-        <table
-          class="MsoNormalTable"
-          border="1"
-          cellspacing="0"
-          cellpadding="0"
-          style="border-collapse: collapse; border: medium none"
-        >
-        <div class="Content">
-          <tbody>
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Name of the Bank</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>State Bank of India</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Name of the Branch</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>GCET Raipur Branch</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Address of the Bank</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b
-                    >Govt. College of Engg. Campus, GE Road, Raipur,
-                    CG-492010</b
-                  >
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Name of the Account Holder</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>National Institute of Technology Raipur</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Account Number</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>38027633250</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Type of Account</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Savings Account</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Bank Branch Code</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>02852</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>IFSC Code</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>SBIN0002852</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Swift Code</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>SBININBB646</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>MICR code of Bank</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>492002004</b>
-                </p>
-              </td>
-            </tr>
-
-            <tr>
-              <td
-                width="187"
-                style="border: 1pt solid windowtext; padding: 0in"
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>Currency:</b>
-                </p>
-              </td>
-              <td
-                width="187"
-                style="
-                    border-left: medium none;
-                    border-right: 1pt solid windowtext;
-                    border-top: 1pt solid windowtext;
-                    border-bottom: 1pt solid windowtext;
-                    padding: 0in;
-                  "
-              >
-                <p
-                  class="MsoNormal"
-                  align="center"
-                  style="
-                      text-align: center;
-                      line-height: 12.95pt;
-                      margin-bottom: 6.35pt;
-                    "
-                >
-                  <b>INR (Indian rupees)</b>
-                </p>
-              </td>
-            </tr>
-          </tbody>
-          </div>
-        </table>
-        </div>
-        <strong>
-          <p class="article">* Please indicate on transfer: PAPER_ID_ICPC2T</p>
-        </strong>
-
-        <p class="article">
-          <strong>Important Notes</strong>
-        </p>
-        <p class="article">
-          1) IEEE Members and Student registrants must produce a valid proof of
-          Active IEEE Membership Card/ Student ID (with clearly displayed
-          expiration date) at the time of registration.<br />
-          2) The Author’s registration fee includes one paper in the
-          proceedings.
-          <strong
-            >Two more publications can be registered for the same presenting
-            author, each adding the standard registration fee with 20%
-            concession.</strong
-          ><br />
-          3) Registration fee is not refundable.
-        </p>
-        <p class="article"></p>
       </div>
     </div>
   </div>
@@ -1554,25 +160,69 @@ export default {
 </script>
 
 <style scoped>
-@media (max-width:400px){
-.FixedHeightContainer
-{
-
-  height: 350px;
-  width:100%; 
-  padding:3px; 
-  
+.logo-small{
+  height: 40%;width: 40%;
 }
+.logo-large{
+    height: 60%;width: 60%;
 }
-
-@media (max-width:400px)  {
-  .Content
-{
-  width:290px;
-   overflow:auto;
-    
+.tg {
+  border-collapse: collapse;
+  border-color: #ccc;
+  border-spacing: 0;
 }
+.tg td {
+  background-color: #fff;
+  border-color: #ccc;
+  border-style: solid;
+  border-width: 1px;
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
 }
-
+.tg th {
+  background-color: #f0f0f0;
+  border-color: #ccc;
+  border-style: solid;
+  border-width: 1px;
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg .tg-x75h {
+  font-family: "Times New Roman", Times, serif !important;
+  font-size: 18px;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-ltad {
+  font-size: 14px;
+  text-align: left;
+  vertical-align: top;
+}
+.tg .tg-0lax {
+  text-align: left;
+  vertical-align: top;
+}
+.table-head {
+  font-weight: 700;
+  font-style: normal;
+  text-decoration: none;
+  color: #000;
+  background-color: transparent;
+}
+.table-col {
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  color: #000;
+  background-color: transparent;
+}
 </style>
-

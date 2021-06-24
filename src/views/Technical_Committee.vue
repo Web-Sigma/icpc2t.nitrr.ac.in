@@ -9,36 +9,39 @@
         </h2>
         <hr class="red title-hr" />
         <p class="article">
-          <span>Dr. Ramesh Bansal, University of Sharjah, Sharjah (UAE)</span
+          <span>
+            Prof. Vinod Khadkikar, Khalifa University, Abu Dhabi, UAE
+            (Chairman).</span
           ><br />
-          <span>Dr. P. Sanjeevi Kumar, Aalborg University, Denmark</span><br />
-          <span>Dr. T S Bhatti, I I T Delhi, India</span><br />
-          <span>Dr. Rajesh Kumar, MNIT Jaipur, India</span><br />
-          <span>Dr. Dilbagh Singh, NIT Jalandhar, India</span><br />
-          <span>Dr. Dheeraj K Khatod, I I T Roorkee, India</span><br />
-          <span>Dr. C N Bhende, I I T Bhubaneswar, India</span><br />
-          <span>Dr. Mohammad Pazoki, Damghan University, Iran</span><br />
-          <span
-            >Dr. Adam Głowacz, AGH University of Science and Technology,
-            Poland</span
+          <span> Prof. Bidyadhar Subudhi, IIT Goa</span><br />
+          <span> Prof. D. N. Vishwakarma, IIT BHU</span><br />
+          <span> Prof. Kalyan Chatterjee, IIT Dhanbad.</span><br />
+          <span> Prof V T Somashekhar, NIT Warangal</span><br />
+          <span> Prof. R. K. Nema, MNIT Bhopal.</span><br />
+          <span> Prof. S. Nema, MNIT Bhopal.</span><br />
+          <span> Prof. A. Kumar, NIT Kurukshetra</span><br />
+          <span> Prof. M. Dubey, MNIT Bhopal.</span><br />
+          <span> Prof. Nidul Sinha, NIT Silchar </span><br />
+          <span> Prof. D.K. Mohanta, Birla Institute of Technology, Mesra</span
           ><br />
-          <span>Dr. Ragab A. El Sehiemy, Kafrelsheikh University, Egypt</span
+          <span> Dr. Amit Kumar Jain, IIT Delhi</span><br />
+          <span> Dr. Chandrashekhar N. Bhende, IIT Bhubaneswar.</span><br />
+          <span> Dr. Trapti Jain, IIT Indore</span><br />
+          <span> Dr. Rohit Bhakar, MNIT, Jaipur</span><br />
+          <span> Dr. Susovan Samant, NIT Rourkela</span><br />
+          <span> Dr. P. Sanjeevikumar, Aarhus University, Herning, Denmark</span
           ><br />
-          <span>Dr. Rahman Dashti, Persian Gulf University, I.R. Iran</span
+          <span> Dr. Vasundhara Mahajan, SVNIT, Surat</span><br />
+          <span> Dr. Dattatraya N Gaonkar, NITK, Surathkal</span><br />
+          <span> Dr.V. S. Kale, VNIT Nagpur</span><br />
+          <span> Dr. Mohammad Pazoki, Damghan University, Damghan, Iran.</span
           ><br />
-          <span>Dr. Amit Kumar Jain, I I T Delhi, India</span><br />
-          <span>Dr. Shishaj P. Simon, NIT Tiruchirappalli, India</span><br />
-          <span>Dr. Dattaraya N. Gaonkar, NITK Suarathkal, India</span><br />
-          <span>Dr. D. N. Vishwakarma, I I T BHU, India</span><br />
-          <span>Dr. Pawan Kumar Modi, VSSUT, Burla-Orissa, India</span><br />
-          <span>Dr. Anil Kumar, IIITDM Jabalpur, India</span><br />
-          <span>Dr. P. Parthiban, NIT Surathkal, India</span><br />
-          <span>Dr. Subhendu K. Sahoo, IIIT Naya Raipur, India</span><br />
-          <span>Dr. V.S. Kale, VNIT Nagpur, India</span><br />
-          <span>Dr. Nita R. Patne, VNIT Nagpur, India</span><br />
-          <span>Dr. Soumya Ranjan Mohanti, MNNIT Allahabad, India</span><br />
-          <span>Dr. G.V.V Sharma, I I T Hyderabad, India</span><br />
-          <span>Dr. Praduymn Chaturvedi, VNIT Nagpur, India</span>
+          <span> Dr. Ritesh Keshri, VNIT Nagpur</span><br />
+          <span> Dr. Pradyumn Chaturvedi, VNIT Nagpur</span><br />
+          <span> Dr Sudharshan Karthik, IIST Thiruvanantapuram</span><br />
+          <span> Dr A Kirubakaran, NIT Warangal</span><br />
+          <span> Dr. B. Venugopal Reddy, NIT Goa</span><br />
+          <span> Dr. Shreeraj E S, NIT Goa</span><br />
         </p>
       </div>
     </div>

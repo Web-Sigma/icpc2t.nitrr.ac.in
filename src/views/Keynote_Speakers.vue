@@ -9,6 +9,7 @@
           <strong>Speakers</strong>
         </h2>
         <hr class="red title-hr" />
+        <p class="article">Will be Updated Soon.</p>
           <!-- <carousel id="primary"
       :per-page="1"
       :mouse-drag="false"
