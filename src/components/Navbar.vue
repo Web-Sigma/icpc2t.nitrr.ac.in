@@ -65,6 +65,8 @@
 
               <a class="dropdown-item" href="#">Tracks / Topics</a>
 
+              <a class="dropdown-item" href="#">Camera Ready Submission Instructions</a>
+
             </div>
           </li>
 

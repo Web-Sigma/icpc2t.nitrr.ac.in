@@ -18,6 +18,7 @@ import Organising_Committee from '../views/Organising_Committee.vue'
 import Technical_Committee from '../views/Technical_Committee.vue'
 import TouristAttraction from '../views/Tourist_Attraction.vue'
 import Accomodation from '../views/Accomodation.vue'
+import CameraReadySubmission from '../views/CameraReadySubmission.vue'
 Vue.use(VueRouter)
 
 
@@ -111,6 +112,11 @@ const routes = [
     path: '/accomodation',
     name: 'Accomodation',
     component: Accomodation
+  },
+  {
+    path: '/camerareadysubmission',
+    name: 'CameraReadySubmission',
+    component: CameraReadySubmission
   },
   { path: "*", component: Home }
 
