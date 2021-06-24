@@ -17,18 +17,16 @@
           <span>Prof. G.K. Singh, IIT Roorkee.</span><br />
           <span> Prof. C. Nagamani, NIT Trichy,</span><br />
           <span>Prof. Rajesh Kumar, MNIT, Jaipur</span><br />
-          <span>
-            Prof. Ramesh Bansal, University of Sharjah, United Arab
-            Emirates</span
           ><br />
           <span> Dr. Santanu Kapat, IIT Kharagpur</span><br />
           <span> Dr. Sandeep Anand, IIT-Bombay</span><br />
           <span> Er. Sanjeev Jain, CE, CREDA, Chhattisgarh</span><br />
           <span> Dr. Dheeraj K. Khatod, IIT Roorkee</span><br />
-          <span> Dr. Sunil Bhat, VNIT Nagpur, IEEE Bombay Section</span><br />
+        <br />
           <span>
             Dr. Rahman Dashti, Persian Gulf University, Bushehr, Iran.</span
           ><br />
+           <span> Prof. Ramesh Bansal, University of Sharjah, United Arab Emirates</span><br />
         </p>
       </div>
       <!-- entry-content clearfix-->
