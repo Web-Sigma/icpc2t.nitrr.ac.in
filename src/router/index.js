@@ -121,10 +121,17 @@ const routes = [
   }
 
 ]
-
+/* eslint-disable */
 const router = new VueRouter({
   base: process.env.BASE_URL,
-  routes
+  routes,
+  scrollBehavior (to, from, savedPosition) {
+    return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        resolve({ x: 0, y: 250 })
+      }, 500)
+    })
+  }
 })
 
 export default router
