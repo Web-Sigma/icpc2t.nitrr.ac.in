@@ -11,8 +11,8 @@
           <!-- Copyright -->
           <p class="text-center text-md-left grey-text">
             © 2021 Copyright:
-            <a href="https://nitrr.ac.in" target="_blank">
-              National Intitute of technology, Raipur
+            <a href="http://nitrr.ac.in" target="_blank">
+              National Intitute of Technology Raipur
             </a>
           </p>
            
