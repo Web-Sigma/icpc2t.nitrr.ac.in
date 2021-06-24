@@ -31,6 +31,7 @@
           <span> Dr. Susovan Samant, NIT Rourkela</span><br />
           <span> Dr. P. Sanjeevikumar, Aarhus University, Herning, Denmark</span
           ><br />
+          <span> Dr. Vasundhara Mahajan, SVNIT, Surat</span><br />
           <span> Dr. Dattatraya N Gaonkar, NITK, Surathkal</span><br />
           <span> Dr.V. S. Kale, VNIT Nagpur</span><br />
           <span> Dr. Mohammad Pazoki, Damghan University, Damghan, Iran.</span

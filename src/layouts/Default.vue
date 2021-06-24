@@ -98,44 +98,7 @@
               <router-link class="nav-link" to="/new/registration"
                 >Registration</router-link
               >
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  id="navbarDropdownMenuLink"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="true"
-                  >Plan Travel</a
-                >
 
-                <div
-                  class="dropdown-menu dropdown-primary"
-                  aria-labelledby="navbarDropdownMenuLink"
-                >
-                  <router-link class="dropdown-item" to="/new/india"
-                    >About India</router-link
-                  >
-
-                  <router-link class="dropdown-item" to="/new/raipur"
-                    >About Raipur</router-link
-                  >
-
-                  <router-link class="dropdown-item" to="#"
-                    >Travelling to Raipur</router-link
-                  >
-                  <router-link class="dropdown-item" to="/new/venue"
-                    >Conference Venue</router-link
-                  >
-
-                  <router-link class="dropdown-item" to="/new/accomodation"
-                    >Accomodation</router-link
-                  >
-
-                  <router-link class="dropdown-item" to="/new/tourist"
-                    >Tourists Attraction</router-link
-                  >
-                </div>
-              </li>
               <router-link class="nav-link" to="/new/downloads"
                 >Downloads</router-link
               >
