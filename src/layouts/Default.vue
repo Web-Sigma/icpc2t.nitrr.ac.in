@@ -54,7 +54,7 @@
                   >
 
                   <router-link class="dropdown-item" to="/technical"
-                    >Technical Committee</router-link
+                    >Technical Program Committee</router-link
                   >
                 </div>
               </li>

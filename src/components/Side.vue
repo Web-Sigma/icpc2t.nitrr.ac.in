@@ -18,7 +18,7 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-            Deadline for Full Paper Submission : 31st August 2021
+            Deadline for Full Paper Submission : 30th September 2021
             <br /><br />
             Venue : Department of Electrical Engineering, National Institute of
             Technology, Raipur, India
@@ -46,22 +46,22 @@
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Deadline for Full Paper Submission : 31st August 2021
+          Deadline for Full Paper Submission : 30th September 2021
         </li>
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Acceptance Notification : 31st October 2021
+          Acceptance Notification : 30th November 2021
         </li>
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Camera Ready Paper Submission : 15th November 2021
+          Camera Ready Paper Submission : 25th December 2021
         </li>
         <li
           class="list-group-item d-flex justify-content-between align-items-center"
         >
-          Registration Deadline : 30th November 2021
+          Registration Deadline : 15th January 2022
         </li>
       </ul>
       <!-- Text -->

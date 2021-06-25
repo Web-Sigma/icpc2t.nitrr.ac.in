@@ -135,7 +135,7 @@
           </li>
         </ul>
        </p>
-        <p class="article red-text"> All the presented papers in the conference will only be submitted to IEEE for inclusion into IEEE Xplore which is Scopus indexed.</p>
+       
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
         <ul>
