@@ -135,7 +135,7 @@
           </li>
         </ul>
        </p>
-        <p class="article red-text"> All the presented papers in the conference will only be submitted to IEEE for inclusion into IEEE Xplore which is Scopus indexed.</p>
+       
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
         <ul>
@@ -145,7 +145,7 @@
 <li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2021 conference website as and when applicable.</li>
         </ul>
 </p>
-<p><img class="logo-small" src="@/assets/ieee-humanities-logo.png" alt=""><img class="logo-large" src="@/assets/ieee-xplore-logo.png" alt=""></p>
+<div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""></div>
 <p class="article red-text">Participants are instructed to fill REGISTRATION FORM (Google form)</p>
 
       </div>
@@ -160,11 +160,10 @@ export default {
 </script>
 
 <style scoped>
-.logo-small{
-  height: 40%;width: 40%;
-}
-.logo-large{
-    height: 60%;width: 60%;
+
+.logo{
+    
+    text-align: center;
 }
 .tg {
   border-collapse: collapse;

@@ -6,7 +6,7 @@
       class="red-text"
       onmouseover="this.stop();"
       onmouseout="this.start();"
-      >Second IEEE ICPC<sup>2</sup>T Virtual Conference -
+      > ICPC<sup>2</sup>T-2021 Virtual Conference -
       <a href="#/schedule">Schedule</a> | All accepted & presented papers will
       be published in IEEE Xplore (Proceedings indexed in Scopus) | Fully
       Virtual presentations</marquee

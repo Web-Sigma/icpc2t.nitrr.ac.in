@@ -5,7 +5,7 @@
       <!-- Card -->
       <div class="card card-body mb-5">
         <h2 class="font-weight-bold mt-3">
-          <strong>Technical Committee</strong>
+          <strong>Technical Program Committee</strong>
         </h2>
         <hr class="red title-hr" />
         <p class="article">
