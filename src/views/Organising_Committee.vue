@@ -32,7 +32,7 @@
               Bombay</span
             ><br />
             <br /><span class="heading">General Chairs</span><br />
-            <span>Dr. Narendra D. Londhe, NIT Raipur</span><br />
+            <span>Dr. Narendra D. Londhe, HOD, Dept. of Electrical Engineering, NIT Raipur</span><br />
             <br /><span class="heading"
               >Coordinators/ Organizing Secretaries</span
             ><br />
