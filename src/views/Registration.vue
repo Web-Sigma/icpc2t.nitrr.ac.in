@@ -12,7 +12,7 @@
           Interested participants shall pay the registration fee directly to the
           bank account. Candidate shall send the filled in workshop registration
           form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a> on or before
-          15/11/2021. Registration form and payment details are available in the
+          15/01/2022. Registration form and payment details are available in the
           website
         </p>
         <h3>Registration Fees (Excluding GST *)</h3>
@@ -135,13 +135,19 @@
           </li>
         </ul>
        </p>
+       <p class="article red-text">All the registered and presented papers in the conference will only be
+submitted to IEEE for their inclusion into IEEE Xplore which is
+Scopus indexed</p>
        
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
         <ul>
 <li>The sample paper template is made available on the conference website in Downloads menu.</li>
 <li> The number of pages in the paper should not exceed <strong>six</strong> Papers submitted in the format other than IEEE will not be considered for the conference.</li>
-<li> The authors of the accepted papers will be invited for an oral presentation (virtual mode) in the conference. All the presented papers in the conference will only be submitted to IEEE for inclusion into IEEE Xplore which is Scopus indexed. Registration of at least one author is compulsory for each paper.</li>
+<li>The authors of the accepted papers will be invited for an oral presentation (virtual mode) in the
+conference. All the registered and presented papers in the conference will only be submitted to
+IEEE for their inclusion into IEEE Xplore which is Scopus indexed. Registration of at least one
+author is compulsory for each paper.</li>
 <li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2021 conference website as and when applicable.</li>
         </ul>
 </p>

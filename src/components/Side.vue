@@ -113,7 +113,7 @@
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
         <p class="card-text blue-text ">
-          <a href="/brochers.pdf"  target="_blank"
+          <a href="/brochure.pdf"  target="_blank"
             >Download ICPC<sup>2</sup>T 2021 - Brochure
           <i class="fas fa-file-pdf"></i
           ></a>
