@@ -23,8 +23,10 @@
             Venue : Department of Electrical Engineering, National Institute of
             Technology, Raipur, India
             <br /><br />
-            Submission Information : The Conference Management Toolkit (CMT) sponsored by Microsoft Research (<a
-              href="https://cmt3.research.microsoft.com/" target="_blank"
+            Submission Information : The Conference Management Toolkit (CMT)
+            sponsored by Microsoft Research (<a
+              href="https://cmt3.research.microsoft.com/"
+              target="_blank"
               >click here</a
             >)
           </marquee>
@@ -97,7 +99,9 @@
             <slide>
               <img src="@/assets/partners/bombaysection.png" alt="" />
             </slide>
-            <!-- <slide> <img src="@/assets/partners/csphcl_01.jpg" alt="" /> </slide> -->
+            <slide>
+              <img src="@/assets/partners/ias-logo.png" alt="" />
+            </slide>
             <slide>
               <img src="@/assets/partners/ieeespons.png" alt="" />
             </slide>
@@ -113,9 +117,9 @@
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
         <p class="card-text blue-text ">
-          <a href="/brochure.pdf"  target="_blank"
+          <a href="/brochure.pdf" target="_blank"
             >Download ICPC<sup>2</sup>T 2021 - Brochure
-          <i class="fas fa-file-pdf"></i
+            <i class="fas fa-file-pdf"></i
           ></a>
         </p>
       </div>

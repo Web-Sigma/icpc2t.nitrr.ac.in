@@ -151,7 +151,8 @@ author is compulsory for each paper.</li>
 <li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2021 conference website as and when applicable.</li>
         </ul>
 </p>
-<div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""></div>
+<div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div> <div class="logo"><img style="width:207px;height:142px;" src="@/assets/partners/ias-logo.png" alt="" /> </div> 
+<br>
 <p class="article red-text">Participants are instructed to fill REGISTRATION FORM (Google form)</p>
 
       </div>
@@ -168,7 +169,7 @@ export default {
 <style scoped>
 
 .logo{
-    
+    overflow: hidden;
     text-align: center;
 }
 .tg {
