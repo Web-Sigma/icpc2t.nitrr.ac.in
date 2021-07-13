@@ -175,6 +175,10 @@ a.router-link-exact-active {
   margin: 0;
   padding: 1em;
 }
+.banner img{
+  width:100%;
+
+  }
 [v-cloak] {
   display: none;
 }
