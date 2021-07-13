@@ -38,9 +38,13 @@
           <span> Dr.V. S. Kale, VNIT Nagpur</span><br />
           <span> Dr. Mohammad Pazoki, Damghan University, Damghan, Iran.</span
           ><br />
+          <span> Dr. K T V Talele, EXECOM Member, IEEE Bombay Section</span><br />
+          <span> Dr A Kirubakaran, NIT Warangal</span><br />
+         
+          
           <span> Dr. Ritesh Keshri, VNIT Nagpur</span><br />
           <span> Dr. Pradyumn Chaturvedi, VNIT Nagpur</span><br />
-          <span> Dr A Kirubakaran, NIT Warangal</span><br />
+          
           <span> Dr. B. Venugopal Reddy, NIT Goa</span><br />
           <span> Dr. Shreeraj E S, NIT Goa</span><br />
         </p>

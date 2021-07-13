@@ -10,6 +10,7 @@
         <hr class="red title-hr" />
         <p class="article">
           <span>Prof. Frede Blaabjerg, Aalborg University, Denmark.</span><br />
+          <span> Prof. Jason Lai, Future Energy Electronics Center, Virginia Tech, USA</span><br/>
           <span>Prof. Sheldon Williamson, University of Ontario, Canada</span
           ><br />
           <span>Prof. Vivek Agarwal, IIT-Bombay</span><br />

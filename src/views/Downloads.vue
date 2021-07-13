@@ -15,6 +15,8 @@
               <i class="fas fa-file-pdf"> </i
             ></a>
           </li>
+          <li class="list-group-item d-flex "> <a href="/conference-template-a4.docx"> Microsoft Word - US letter</a></li>
+            <li class="list-group-item d-flex "><a href="/conference-template-letter.docx"> Microsoft Word - A4</a></li>
         </ul>
       </div>
     </div>

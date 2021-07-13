@@ -135,9 +135,7 @@
           </li>
         </ul>
        </p>
-       <p class="article red-text">All the registered and presented papers in the conference will only be
-submitted to IEEE for their inclusion into IEEE Xplore which is
-Scopus indexed</p>
+       <p class="article red-text">•	All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed subject to IEEE review and the eligible papers further review to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.</p>
        
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
@@ -148,6 +146,7 @@ Scopus indexed</p>
 conference. All the registered and presented papers in the conference will only be submitted to
 IEEE for their inclusion into IEEE Xplore which is Scopus indexed. Registration of at least one
 author is compulsory for each paper.</li>
+<li>	The presented papers will be eligible for further review to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine. </li>
 <li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2021 conference website as and when applicable.</li>
         </ul>
 </p>
