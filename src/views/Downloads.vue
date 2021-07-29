@@ -15,8 +15,15 @@
               <i class="fas fa-file-pdf"> </i
             ></a>
           </li>
-          <li class="list-group-item d-flex "> <a href="/conference-template-a4.docx"> Microsoft Word - US letter</a></li>
+          
+          <li class="list-group-item d-flex list-group-flush" style="color:blue;"> Here are the link to download <br/> different formats and  the <br/>templates of IEEE conference papers.
+           <ul>
+             <li class="list-group-item d-flex "> <a href="/conference-template-a4.docx"> Microsoft Word - US letter</a></li>
             <li class="list-group-item d-flex "><a href="/conference-template-letter.docx"> Microsoft Word - A4</a></li>
+            <li class="list-group-item d-flex ">  <a href="https://www.ieee.org/conferences/publishing/templates.html">  IEEE conference templates </a></li>
+           </ul>
+          </li>
+           
         </ul>
       </div>
     </div>
