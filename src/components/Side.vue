@@ -3,13 +3,13 @@
   <div class="col-xl-4 col-md-12 widget-column mt-0">
     <!-- Section: Categories -->
     <section class="section mb-5">
-      <h4 class=" mt-2 text-center">
+      <h4 class="mt-2 text-center">
         <strong>ANNOUNCEMENT</strong>
       </h4>
 
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
-        <p class="card-text red-text ">
+        <p class="card-text red-text">
           <marquee
             direction="up"
             height="150px"
@@ -18,14 +18,14 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-            Deadline for Full Paper Submission : 30th September 2021
+            Deadline for Full Paper Submission : 29th November 2021
             <br /><br />
             Venue : Department of Electrical Engineering, National Institute of
             Technology, Raipur, India
             <br /><br />
             Submission Information : The Conference Management Toolkit (CMT)
             sponsored by Microsoft Research (<a
-              href="https://cmt3.research.microsoft.com/"
+              href="https://cmt3.research.microsoft.com/ICPC2T2022"
               target="_blank"
               >click here</a
             >)
@@ -40,30 +40,50 @@
     <section class="section mt-5">
       <!-- Jumbotron -->
 
-      <h4 class=" mt-2 text-center">
+      <h4 class="mt-2 text-center">
         <strong>IMPORTANT DATES</strong>
       </h4>
       <hr class="red title-hr" />
       <ul class="list-group z-depth-1 mt-4">
         <li
-          class="list-group-item d-flex justify-content-between align-items-center"
+          class="
+            list-group-item
+            d-flex
+            justify-content-between
+            align-items-center
+          "
         >
-          Deadline for Full Paper Submission : 30th September 2021
+          Deadline for Full Paper Submission : 29th November 2021
         </li>
         <li
-          class="list-group-item d-flex justify-content-between align-items-center"
+          class="
+            list-group-item
+            d-flex
+            justify-content-between
+            align-items-center
+          "
         >
-          Acceptance Notification : 30th November 2021
+          Acceptance Notification : 3rd January 2022
         </li>
         <li
-          class="list-group-item d-flex justify-content-between align-items-center"
+          class="
+            list-group-item
+            d-flex
+            justify-content-between
+            align-items-center
+          "
         >
-          Camera Ready Paper Submission : 25th December 2021
+          Camera Ready Paper Submission : 17th January 2022
         </li>
         <li
-          class="list-group-item d-flex justify-content-between align-items-center"
+          class="
+            list-group-item
+            d-flex
+            justify-content-between
+            align-items-center
+          "
         >
-          Registration Deadline : 15th January 2022
+          Registration Deadline : 24th January 2022
         </li>
       </ul>
       <!-- Text -->
@@ -83,13 +103,13 @@
       </div>
     </section> -->
     <section class="section mb-5">
-      <h4 class=" mt-2 text-center">
+      <h4 class="mt-2 text-center">
         <strong>TECHNICAL SPONSORS</strong>
       </h4>
 
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
-        <p class="card-text red-text ">
+        <p class="card-text red-text">
           <carousel
             :per-page="1"
             :mouse-drag="true"
@@ -110,15 +130,15 @@
       </div>
     </section>
     <section class="section mb-5">
-      <h4 class=" mt-2 text-center">
+      <h4 class="mt-2 text-center">
         <strong>BROCHURE</strong>
       </h4>
 
       <hr class="red title-hr" />
       <div class="card card-body d-flex text-center">
-        <p class="card-text blue-text ">
+        <p class="card-text blue-text">
           <a href="/brochure.pdf" target="_blank"
-            >Download ICPC<sup>2</sup>T 2021 - Brochure
+            >Download ICPC<sup>2</sup>T 2022 - Brochure
             <i class="fas fa-file-pdf"></i
           ></a>
         </p>

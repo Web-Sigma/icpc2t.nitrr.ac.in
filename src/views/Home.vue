@@ -32,7 +32,7 @@
 
         <hr class="red title-hr" />
         <p class="article">
-          ICPC<sup>2</sup>T 2021 is organized by National Institute of
+          ICPC<sup>2</sup>T 2022 is organized by National Institute of
           Technology, Raipur and is co- sponsored technically by IEEE Industry
           Applications Society (IAS), IEEE Bombay Section, IEEE Student Section,
           NIT-Raipur. Theme of the conference is power, control and soft
@@ -51,8 +51,8 @@
           be considered. Finally, the innovative use of artificial intelligence,
           machine learning and deep learning and data visualization approaches
           for the power management in a variety of contexts including EVs, smart
-          grid, smart city etc. will be of interest. ICPC<sup>2</sup>T may also feature
-          invited talks and Keynote addresses from eminent
+          grid, smart city etc. will be of interest. ICPC<sup>2</sup>T may also
+          feature invited talks and Keynote addresses from eminent
           professors/scientists from across the world, pre-conference
           workshops/tutorials from active engineers and technical paper
           presentations of the participants from different parts of the world.

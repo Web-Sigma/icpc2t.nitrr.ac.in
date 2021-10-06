@@ -11,8 +11,8 @@
         <p class="article">
           Interested participants shall pay the registration fee directly to the
           bank account. Candidate shall send the filled in workshop registration
-          form along with the payment proof to <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a> on or before
-          15/01/2022. Registration form and payment details are available in the
+          form along with the payment proof to <a href="mailto:icpc2t_2022@nitrr.ac.in">icpc2t_2022@nitrr.ac.in</a> on or before
+          25/01/2022. Registration form and payment details are available in the
           website
         </p>
         <h3>Registration Fees (Excluding GST *)</h3>
@@ -147,7 +147,7 @@ conference. All the registered and presented papers in the conference will only 
 IEEE for their inclusion into IEEE Xplore which is Scopus indexed. Registration of at least one
 author is compulsory for each paper.</li>
 <li>	The presented papers will be eligible for further review to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine. </li>
-<li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2021 conference website as and when applicable.</li>
+<li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2022 conference website as and when applicable.</li>
         </ul>
 </p>
 <p class="article red-text">Participants are instructed to fill REGISTRATION FORM (Google form)</p>
@@ -168,10 +168,9 @@ export default {
 </script>
 
 <style scoped>
-
-.logo{
-    overflow: hidden;
-    text-align: center;
+.logo {
+  overflow: hidden;
+  text-align: center;
 }
 .tg {
   border-collapse: collapse;

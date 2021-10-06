@@ -7,7 +7,7 @@
 
       <div class="row py-3 d-flex align-items-center">
         <!-- Grid column -->
-        <div class="col-md-7 col-lg-8">
+        <div class="col-md-6 col-lg-8">
           <!-- Copyright -->
           <p class="text-center text-md-left grey-text">
             © 2021 Copyright:
@@ -15,19 +15,20 @@
               National Intitute of Technology Raipur
             </a>
           </p>
-           
+
           <!-- Copyright -->
         </div>
         <!-- Grid column -->
 
         <!-- Grid column -->
-        <div class="col-md-5 col-lg-4 ml-lg-0">
-      <div class=" text-center mr-auto text-md-left">
+        <div class="col-md-6 col-lg-4 ml-lg-0">
+          <div class="text-center mr-auto text-md-left">
             <div class="dropup">
-              <button class="dropbtn text-center grey-text">Developers: Jay Prakash & Anmol Agrawal </button>
-              
+              <button class="dropbtn text-center grey-text">
+                Developers: Jay Prakash, Anmol Agrawal & Aditya Ray
+              </button>
             </div>
-          </div> 
+          </div>
         </div>
         <!-- Grid column -->
       </div>
@@ -39,9 +40,9 @@
 <script>
 export default {
   name: "Footer",
-  data(){
-    return{
-      contributor:[]
+  data() {
+    return {
+      contributor: [],
     };
   },
   // created(){
@@ -55,7 +56,7 @@ export default {
 </script>
 <style scoped>
 .dropbtn {
-  background-color:transparent;
+  background-color: transparent;
   color: white;
   padding: 16px;
   font-size: 16px;

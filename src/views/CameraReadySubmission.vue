@@ -25,16 +25,19 @@
             (b) Revised Version: Revise your paper based on reviewers’
             comments/suggestions (if any). The reviewer’s comments are available
             in the same Microsoft paper management site
+            <a href="https://cmt3.research.microsoft.com/ICPC2T2022"
+              >https://cmt3.research.microsoft.com/ICPC2T2022
+            </a>
           </p>
-          <a>https://cmt3.research.microsoft.com/IPRECON2021 </a>
+
           <p>
             (c) The maximum page limit is six pages including references. No
             author biography at the end. In case additional pages are necessary,
             pages up to 8 pages are permitted subject to payment of Rs. 500
             ($10) extra per each additional page. (d) Similarity with other
             papers should be low (Generally, a similarity index of more than 30
-            % is not acceptable for publication). Maximum File Size allowed is 3
-            MB and the file format is Adobe PDF (.pdf) without any encryption
+            % is not acceptable for publication). Maximum File Size allowed is
+            10 MB and the file format is Adobe PDF (.pdf) without any encryption
             and/or passwords. (e) The authors are expected to make sure that the
             comments of the reviewers/meta-reviewers have been addressed in the
             final manuscript. Reply to the reviewer/meta reviewer comments can
@@ -46,14 +49,17 @@
           <h2>Step 2. PDF eXpress check:</h2>
           <p>
             After you have appropriately revised your paper, pass your revised
-            paper through PDF eXpress using conference ID (52453X) by going to
+            paper through PDF eXpress using conference ID (53885X) by going to
             the URL <a> (https://ieee-pdf-express.org)</a>. If you do not have
             an account in Pdf eXpress, click on the link “New Users – Click
             Here” and fill in your information (email address and password). If
             you are not familiar with Pdf eXpress you can get detailed
             instructions on using IEEE PDF eXpress at:
+            <a href="https://ieee-pdf-express.org/External/UsingIEEEPDFeXpress">
+              https://ieee-pdf-express.org/External/UsingIEEEPDFeXpress
+            </a>
           </p>
-          <a> https://ieee-pdf-express.org/External/UsingIEEEPDFeXpress </a>
+
           <h2>Step 3. Paper Submission:</h2>
           <p>
             Submit the final version of the paper (after passing it through PDF

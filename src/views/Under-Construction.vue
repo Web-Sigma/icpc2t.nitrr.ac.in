@@ -1,12 +1,9 @@
 <template>
   <div>
-    <p class="message">
-      Site Under Construction
+    <p class="message">Site Under Construction</p>
+    <p>
+      <a href="mailto:icpc2t_2022@nitrr.ac.in">icpc2t_2022@nitrr.ac.in</a>
     </p>
-<p>
-
-    <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a>
-</p>
   </div>
 </template>
 <script>

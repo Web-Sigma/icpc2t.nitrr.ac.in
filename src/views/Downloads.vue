@@ -9,21 +9,39 @@
         </h2>
         <hr class="red title-hr" />
         <ul class="list-group z-depth-1 mt-4">
-          <li class="list-group-item d-flex ">
+          <li class="list-group-item d-flex">
             <a href="/brochure.pdf" class="red-text" target="_blank">
-               • Download ICPC<sup>2</sup>T 2021 - Brochure
+              • Download ICPC<sup>2</sup>T 2022 - Brochure
               <i class="fas fa-file-pdf"> </i
             ></a>
           </li>
-          <li class="list-group-item d-flex " >  <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:blue;">  • Click here to download different templates of IEEE conference papers. </a></li>
-          <li class="list-group-item d-flex list-group-flush" style="color:blue;"> • Templates of IEEE conference papers.
-           <ul>
-             <li class="list-group-item d-flex "> <a href="/conference-template-a4.docx" style="color:blue;">1. Microsoft Word - US letter</a></li>
-            <li class="list-group-item d-flex "><a href="/conference-template-letter.docx" style="color:blue;"> 2. Microsoft Word - A4</a></li>
-            
-           </ul>
+          <li class="list-group-item d-flex">
+            <a
+              href="https://www.ieee.org/conferences/publishing/templates.html"
+              style="color: blue"
+            >
+              • Click here to download different templates of IEEE conference
+              papers.
+            </a>
           </li>
-           
+          <li
+            class="list-group-item d-flex list-group-flush"
+            style="color: blue"
+          >
+            • Templates of IEEE conference papers.
+            <ul>
+              <li class="list-group-item d-flex">
+                <a href="/conference-template-a4.docx" style="color: blue"
+                  >1. Microsoft Word - US letter</a
+                >
+              </li>
+              <li class="list-group-item d-flex">
+                <a href="/conference-template-letter.docx" style="color: blue">
+                  2. Microsoft Word - A4</a
+                >
+              </li>
+            </ul>
+          </li>
         </ul>
       </div>
     </div>
@@ -32,6 +50,6 @@
 
 <script>
 export default {
-   name: "Downloads",
+  name: "Downloads",
 };
 </script>

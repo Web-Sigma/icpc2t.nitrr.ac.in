@@ -32,7 +32,10 @@
               Bombay</span
             ><br />
             <br /><span class="heading">General Chairs</span><br />
-            <span>Dr. Narendra D. Londhe, HOD, Dept. of Electrical Engineering, NIT Raipur</span><br />
+            <span
+              >Dr. Narendra D. Londhe, HOD, Dept. of Electrical Engineering, NIT
+              Raipur</span
+            ><br />
             <br /><span class="heading"
               >Coordinators/ Organizing Secretaries</span
             ><br />
@@ -43,6 +46,7 @@
             <span>Prof. P. D. Dewangan, NIT Raipur</span><br />
             <span>Dr. S. Ghosh, NIT Raipur</span><br />
             <span>Dr. R.N. Patel, NIT Raipur</span><br />
+            <span>Dr. V Hari Priya, NIT Raipur</span><br />
             <span>Dr. Pradyumn Chaturvedi, VNIT Nagpur</span><br />
             <br /><span class="heading">Publicity Chairs</span><br />
             <span>Dr. Anamika Jain, NIT Raipur</span><br />
@@ -50,17 +54,21 @@
               >Dr. (Mrs) Varsha Singh, NIT Raipur</span
             ><br />
             <span>Dr. (Mrs) Monalisa Biswal, NIT Raipur</span><br />
-
+            <span>Dr. D. Suresh, NIT Raipur</span><br />
             <br /><span class="heading">Finance Chair</span><br />
             <span>Dr. B. Shaw, NIT Raipur </span><br />
             <span>Dr Lalit Kumar, NIT Raipur</span><br />
             <span>Dr. Baidyanath Bag, NIT Raipur</span><br />
+            <span> Dr. Ramya Selvaraj, NIT Raipur</span><br />
             <br /><span class="heading">Track Chair</span><br />
             <span>Dr. Amit Kumar Jain, IIT Delhi </span><br />
-            <span>Dr. P. Sanjeevikumar, Aarhus University, Herning, Denmark </span
+            <span
+              >Dr. P. Sanjeevikumar, Aarhus University, Herning, Denmark </span
             ><br />
             <span>Dr. Anmol Saxena, NIT Delhi </span><br />
+            <span> Dr. Ramsha Karampuri, VNIT Nagpur </span><br />
             <span>Dr. K. Chandrasekaran, NIT Raipur </span><br />
+            <span>Dr. Venu Sonti, NIT Raipur </span><br />
           </p>
         </div>
       </div>

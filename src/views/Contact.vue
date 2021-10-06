@@ -16,14 +16,19 @@
             >
           </p>
           <p class="article">
-            <span><strong>Dr. Sachin Jain</strong></span> - <a href="tel:+919441700975">9441700975</a><br />
-            <span><strong>Dr. Swapnajit Patnaik</strong></span> - <a href="tel:+919301199854">9301199854</a><br />
-            <span><strong>Dr. Ebha Koley</strong></span> - <a href="tel:+919827215396">9827215396</a><br />
+            <span><strong>Dr. Sachin Jain</strong></span> -
+            <a href="tel:+919441700975">9441700975</a><br />
+            <span><strong>Dr. Swapnajit Patnaik</strong></span> -
+            <a href="tel:+919301199854">9301199854</a><br />
+            <span><strong>Dr. Ebha Koley</strong></span> -
+            <a href="tel:+919827215396">9827215396</a><br />
             <span
               >E-mail:
-              <a href="mailto:icpc2t@nitrr.ac.in">icpc2t@nitrr.ac.in</a></span
+              <a href="mailto:icpc2t@nitrr.ac.in"
+                >icpc2t_2022@nitrr.ac.in</a
+              ></span
             ><br />
-            <span>ICPC<sup>2</sup>T 2021,</span><br />
+            <span>ICPC<sup>2</sup>T 2022,</span><br />
             <span
               >National Institute of Technology Raipur – 492010, Chhattisgarh,
               India.</span
