@@ -41,7 +41,7 @@
           acceptance notification, camera ready paper submission and
           registration will be notified in the conference website. Any query
           regarding submission may be addressed to
-          <strong>icpc2t@nitrr.ac.in</strong>.
+          <strong>icpc2t_2022@nitrr.ac.in</strong>.
           <strong
             >The proceedings of ICPC<sup>2</sup>T 2022 will be submitted for
             indexing in IEEE Explore.</strong
@@ -126,9 +126,9 @@
         <address>
           <span style="font-size: 10pt"
             >** Paper ID will be provided to all the received papers within ONE
-            working day from icpc2t@nitrr.ac.in. Authors are requested to
-            contact the TPC through icpc2t@nitrr.ac.in if the paper ID has not
-            been received within the time frame.</span
+            working day from icpc2t_2022@nitrr.ac.in. Authors are requested to
+            contact the TPC through icpc2t_2022@nitrr.ac.in if the paper ID has
+            not been received within the time frame.</span
           >
         </address>
         <address>
