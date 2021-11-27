@@ -18,8 +18,8 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-            Deadline for Full Paper Submission : 29th November 2021
-            <br /><br />
+            Extended Deadline for Full Paper Submission :
+            <del>29th November 2021</del>12th december 2021 <br /><br />
             Venue : Department of Electrical Engineering, National Institute of
             Technology, Raipur, India
             <br /><br />
@@ -45,15 +45,9 @@
       </h4>
       <hr class="red title-hr" />
       <ul class="list-group z-depth-1 mt-4">
-        <li
-          class="
-            list-group-item
-            d-flex
-            justify-content-between
-            align-items-center
-          "
-        >
-          Deadline for Full Paper Submission : 29th November 2021
+        <li class="list-group-item">
+          Extended Deadline for Full Paper Submission :
+          <del>29th November 2021</del> 12th december 2021 <br /><br />
         </li>
         <li
           class="

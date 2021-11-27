@@ -47,6 +47,7 @@
 
           <span> Dr. B. Venugopal Reddy, NIT Goa</span><br />
           <span> Dr. Shreeraj E S, NIT Goa</span><br />
+          <span> Dr. Ramsha Karampuri, VNIT Nagpur </span><br />
         </p>
       </div>
     </div>
