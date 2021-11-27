@@ -10,19 +10,19 @@
         <hr class="red title-hr" />
         <p class="article">
           <span>
-            Prof. Vinod Khadkikar, Khalifa University, Abu Dhabi, UAE
+            Dr. Vinod Khadkikar, Khalifa University, Abu Dhabi, UAE
             (Chairman).</span
           ><br />
-          <span> Prof. Bidyadhar Subudhi, IIT Goa</span><br />
-          <span> Prof. D. N. Vishwakarma, IIT BHU</span><br />
-          <span> Prof. Kalyan Chatterjee, IIT Dhanbad.</span><br />
-          <span> Prof V T Somashekhar, NIT Warangal</span><br />
-          <span> Prof. R. K. Nema, MNIT Bhopal.</span><br />
-          <span> Prof. S. Nema, MNIT Bhopal.</span><br />
-          <span> Prof. A. Kumar, NIT Kurukshetra</span><br />
-          <span> Prof. M. Dubey, MNIT Bhopal.</span><br />
-          <span> Prof. Nidul Sinha, NIT Silchar </span><br />
-          <span> Prof. D.K. Mohanta, Birla Institute of Technology, Mesra</span
+          <span> Dr. Bidyadhar Subudhi, IIT Goa</span><br />
+          <span> Dr. D. N. Vishwakarma, IIT BHU</span><br />
+          <span> Dr. Kalyan Chatterjee, IIT Dhanbad.</span><br />
+          <span> Dr V T Somashekhar, NIT Warangal</span><br />
+          <span> Dr. R. K. Nema, MNIT Bhopal.</span><br />
+          <span> Dr. S. Nema, MNIT Bhopal.</span><br />
+          <span> Dr. A. Kumar, NIT Kurukshetra</span><br />
+          <span> Dr. M. Dubey, MNIT Bhopal.</span><br />
+          <span> Dr. Nidul Sinha, NIT Silchar </span><br />
+          <span> Dr. D.K. Mohanta, Birla Institute of Technology, Mesra</span
           ><br />
           <span> Dr. Amit Kumar Jain, IIT Delhi</span><br />
           <span> Dr. Chandrashekhar N. Bhende, IIT Bhubaneswar.</span><br />
@@ -38,13 +38,13 @@
           <span> Dr.V. S. Kale, VNIT Nagpur</span><br />
           <span> Dr. Mohammad Pazoki, Damghan University, Damghan, Iran.</span
           ><br />
-          <span> Dr. K T V Talele, EXECOM Member, IEEE Bombay Section</span><br />
+          <span> Dr. K T V Talele, EXECOM Member, IEEE Bombay Section</span
+          ><br />
           <span> Dr A Kirubakaran, NIT Warangal</span><br />
-         
-          
+
           <span> Dr. Ritesh Keshri, VNIT Nagpur</span><br />
           <span> Dr. Pradyumn Chaturvedi, VNIT Nagpur</span><br />
-          
+
           <span> Dr. B. Venugopal Reddy, NIT Goa</span><br />
           <span> Dr. Shreeraj E S, NIT Goa</span><br />
         </p>

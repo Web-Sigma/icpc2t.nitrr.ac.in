@@ -10,9 +10,9 @@
       ICPC<sup>2</sup>T-2022 Virtual Conference -
       <a href="#/schedule">Schedule</a> | All accepted & presented papers will
       be published in IEEE Xplore (Proceedings indexed in Scopus) | Fully
-      Virtual presentations | The eligible presented papers will be furthur
-      review to be published in the IEEE Transaction on Industry Applications or
-      IEEE IAS Magazine.</marquee
+      Virtual presentations | The eligible presented papers in the conference
+      may be further reviewed for their publication in the IEEE Transaction on
+      Industry Applications or IEEE IAS Magazine.</marquee
     >
     <div id="carousel-main-div-for-spacing">
       <!-- Carousel Wrapper -->

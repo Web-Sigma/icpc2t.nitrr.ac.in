@@ -135,7 +135,7 @@
           </li>
         </ul>
        </p>
-       <p class="article red-text">•	All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed subject to IEEE review and the eligible papers further review to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.</p>
+       <p class="article red-text">•	All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed subject to IEEE review and the eligible papers further reviewed to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.</p>
        
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
       <p class="article">
@@ -143,10 +143,10 @@
 <li>The sample paper template is made available on the conference website in Downloads menu.</li>
 <li> The number of pages in the paper should not exceed <strong>six</strong> Papers submitted in the format other than IEEE will not be considered for the conference.</li>
 <li>The authors of the accepted papers will be invited for an oral presentation (virtual mode) in the
-conference. All the registered and presented papers in the conference will only be submitted to
+    conference. All the registered and presented papers in the conference will only be submitted to
 IEEE for their inclusion into IEEE Xplore which is Scopus indexed. Registration of at least one
 author is compulsory for each paper.</li>
-<li>	The presented papers will be eligible for further review to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine. </li>
+<li>	The presented papers will be eligible for further reviewed to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine. </li>
 <li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2022 conference website as and when applicable.</li>
         </ul>
 </p>

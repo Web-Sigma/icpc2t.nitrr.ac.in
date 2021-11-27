@@ -13,22 +13,24 @@
             <br /><span class="heading">Chief Patron(s)</span><br />
             <span>Dr. A. M. Rawani, Director, NIT Raipur</span><br />
             <br /><span class="heading">Patron(s)</span><br />
+            <span>Dr. Shrish Verma, Dean (Academics), NIT Raipur</span><br />
             <span
-              >Dr. Shubhrata Gupta, Dean (Research &amp; Consultancy), NIT
+              >Dr. Prabhat Diwan, Dean (Research & Consultancy), NIT
               Raipur</span
-            ><br /><span> Dr. Shrish Verma, Dean (Academics), NIT Raipur</span
+            ><br /><span>
+              Dr. (Mrs) Shubhrata Gupta, Professor, EED, NIT Raipur</span
             ><br />
             <br /><span class="heading">Honorary Chair</span><br />
             <span
-              >Prof. Frede Blaabjerg, Professor, Villum Investigator, Aalborg
+              >Dr. Frede Blaabjerg, Professor, Villum Investigator, Aalborg
               University, Denmark</span
             ><br />
             <span
-              >Prof. Vivek Agarwal, Institute Chair Professor, EED,
+              >Dr. Vivek Agarwal, Institute Chair Professor, EED,
               IIT-Bombay</span
             ><br />
             <span
-              >Prof. Suryanarayana Doolla, Professor, Dept. of ESE, IIT
+              >Dr. Suryanarayana Doolla, Professor, Dept. of ESE, IIT
               Bombay</span
             ><br />
             <br /><span class="heading">General Chairs</span><br />
@@ -43,7 +45,7 @@
             <span>Dr. Swapnajit Patnaik, NIT Raipur </span><br />
             <span> Dr. Ebha Koley, NIT Raipur </span><br />
             <br /><span class="heading">Publication Chairs</span><br />
-            <span>Prof. P. D. Dewangan, NIT Raipur</span><br />
+            <span>Dr. P. D. Dewangan, NIT Raipur</span><br />
             <span>Dr. S. Ghosh, NIT Raipur</span><br />
             <span>Dr. R.N. Patel, NIT Raipur</span><br />
             <span>Dr. V Hari Priya, NIT Raipur</span><br />

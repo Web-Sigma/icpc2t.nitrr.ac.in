@@ -9,27 +9,29 @@
         </h2>
         <hr class="red title-hr" />
         <p class="article">
-          <span>Prof. Frede Blaabjerg, Aalborg University, Denmark.</span><br />
-          <span> Prof. Jason Lai, Future Energy Electronics Center, Virginia Tech, USA</span><br/>
-          <span>Prof. Sheldon Williamson, University of Ontario, Canada</span
+          <span>Dr. Frede Blaabjerg, Aalborg University, Denmark.</span><br />
+          <span>
+            Dr. Jason Lai, Future Energy Electronics Center, Virginia Tech,
+            USA</span
           ><br />
-          <span>Prof. Vivek Agarwal, IIT-Bombay</span><br />
-          <span> Prof. Kishore Chatterjee, IIT-Bombay. </span><br />
-          <span>Prof. G.K. Singh, IIT Roorkee.</span><br />
-          <span> Prof. C. Nagamani, NIT Trichy,</span><br />
-          <span>Prof. Rajesh Kumar, MNIT, Jaipur</span><br />
-        
+          <span>Dr. Sheldon Williamson, University of Ontario, Canada</span
+          ><br />
+          <span>Dr. Vivek Agarwal, IIT-Bombay</span><br />
+          <span> Dr. Kishore Chatterjee, IIT-Bombay. </span><br />
+          <span>Dr. G.K. Singh, IIT Roorkee.</span><br />
+          <span> Dr. C. Nagamani, NIT Trichy,</span><br />
+          <span>Dr. Rajesh Kumar, MNIT, Jaipur</span><br />
+
           <span> Dr. Santanu Kapat, IIT Kharagpur</span><br />
           <span> Dr. Sandeep Anand, IIT-Bombay</span><br />
           <span> Er. Sanjeev Jain, CE, CREDA, Chhattisgarh</span><br />
           <span> Dr. Dheeraj K. Khatod, IIT Roorkee</span><br />
-          
+
           <span>
             Dr. Rahman Dashti, Persian Gulf University, Bushehr, Iran.</span
           ><br />
           <span>
-            Prof. Ramesh Bansal, University of Sharjah, United Arab
-            Emirates</span
+            Dr. Ramesh Bansal, University of Sharjah, United Arab Emirates</span
           ><br />
         </p>
       </div>
