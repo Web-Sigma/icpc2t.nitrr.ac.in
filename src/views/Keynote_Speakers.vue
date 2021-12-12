@@ -1,16 +1,47 @@
 <template>
-    <div class="col-xl-8 col-md-12">
-      <!-- Post -->
-      <div class="row mt-2 mb-5 pb-3 mx-2">
-        <!-- Card -->
-        <div class="card card-body mb-5">
-
+  <div class="col-xl-8 col-md-12">
+    <!-- Post -->
+    <div class="row mt-2 mb-5 pb-3 mx-2">
+      <!-- Card -->
+      <div class="card card-body mb-5">
         <h2 class="font-weight-bold mt-3">
           <strong>Speakers</strong>
         </h2>
         <hr class="red title-hr" />
-        <p class="article">Will be Updated Soon.</p>
-          <!-- <carousel id="primary"
+        <div class="row">
+          <div class="col-xl-6 col-md-12">
+            <div class="card card-body mb-5">
+              <img
+                src="@/assets/speaker2.jpeg"
+                style="width: 100%; height: 270px"
+                alt="speaker"
+              />
+              <br />
+              Dr. Jih-Sheng (Jason) Lai <br />
+              IEEE Fellow <br />
+              James S. Tucker Professor <br />
+              Director of Future Energy Electronics Center (FEEC) <br />
+              Virginia Tech, Blacksburg, VA <br />
+            </div>
+          </div>
+          <div class="col-xl-6 col-md-12">
+            <div class="card card-body mb-5">
+              <img
+                src="@/assets/speaker1.jpeg"
+                style="width: 100%; height: 270px"
+                alt="speaker"
+              />
+              <br />
+              Dr. Akshay Kumar Rathore, <br />
+              IEEE Fellow <br />
+              Associate Professor <br />
+              Electrical and Computer Engineering <br />
+              Concordia University, Montreal, Quebec, Canada <br />
+            </div>
+          </div>
+        </div>
+        <!-- <p class="article">Will be Updated Soon.</p> -->
+        <!-- <carousel id="primary"
       :per-page="1"
       :mouse-drag="false"
       :autoplay=true
@@ -44,9 +75,9 @@
       </slide>
      
     </carousel> -->
-        </div>
       </div>
     </div>
+  </div>
 </template>
 
 <script>

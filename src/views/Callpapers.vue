@@ -30,8 +30,12 @@
           manuscript should contain the name of the corresponding author with
           e-mail id and affiliation of all authors. Soft copy of the full length
           manuscripts in IEEE double column format should be submitted
-          electronically via Easy Chair through the link given
-          <a href="https://easychair.org/conferences/?conf=icpc2t2020">here</a>
+          electronically via Conference Management Toolkit (CMT) sponsored by
+          Microsoft Research through the link given
+          <a
+            href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICPC2T2022"
+            >here</a
+          >
           . All the submitted manuscripts will be sent for peer review and the
           corresponding author will be notified about the outcome of the review
           process. If reviewers recommended for further improvement in the
