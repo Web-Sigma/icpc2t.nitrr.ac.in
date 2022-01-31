@@ -18,8 +18,8 @@
             onmouseover="this.stop();"
             onmouseout="this.start();"
           >
-            Extended Deadline for Full Paper Submission :
-            <del>29th November 2021</del> 1st January 2022 <br /><br />
+            Hard Extended Deadline for Full Paper Submission :
+            <del>1st January 2022</del> 7th January 2022 <br /><br />
             Venue : Department of Electrical Engineering, National Institute of
             Technology, Raipur, India
             <br /><br />
@@ -46,31 +46,19 @@
       <hr class="red title-hr" />
       <ul class="list-group z-depth-1 mt-4">
         <li class="list-group-item">
-          Extended Deadline for Full Paper Submission :
-          <del>29th November 2021</del> 1st January 2022 <br /><br />
+          Hard Extended Deadline for Full Paper Submission :
+          <del>1st January 2022</del> 7th January 2022 <br /><br />
         </li>
         <li class="list-group-item">
-          Acceptance Notification : 3rd January 2022
+          Acceptance Notification : <del> 3rd January 2022</del> 22nd January
+          2022
         </li>
-        <li
-          class="
-            list-group-item
-            d-flex
-            justify-content-between
-            align-items-center
-          "
-        >
-          Camera Ready Paper Submission : 17th January 2022
+        <li class="list-group-item">
+          Camera Ready Paper Submission : <del> 17th January 2022</del> 31st
+          January 2022
         </li>
-        <li
-          class="
-            list-group-item
-            d-flex
-            justify-content-between
-            align-items-center
-          "
-        >
-          Registration Deadline : 24th January 2022
+        <li class="list-group-item">
+          Registration Deadline : <del>24th January 2022</del> 31st January 2022
         </li>
       </ul>
       <!-- Text -->

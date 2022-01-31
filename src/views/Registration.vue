@@ -9,13 +9,12 @@
         </h2>
         <hr class="red title-hr" />
         <p class="article">
-          Interested participants shall pay the registration fee directly to the
-          bank account. Candidate shall send the filled in workshop registration
+          Author/participants shall pay the registration fee directly to the
+          bank account. The candidate shall send the filled  registration
           form along with the payment proof to <a href="mailto:icpc2t_2022@nitrr.ac.in">icpc2t_2022@nitrr.ac.in</a> on or before
-          25/01/2022. Registration form and payment details are available in the
-          website
+          18/02/2022 and shall fill the registration form by <a href="https://docs.google.com/forms/d/1acCRuRg4-DXKlkCdPAHnt0ShVuIyRqjjiGyZ2NbJcKs/viewform?edit_requested=true">clicking here</a> . The registration fee  details and bank account details are given below.
         </p>
-        <h3>Registration Fees (Excluding GST *)</h3>
+        <h3>Registration Fees (Including GST  *)</h3>
 
         <div class="FixedHeightContainer">
           <table class="table-responsive tg">
@@ -36,16 +35,16 @@
               </tr>
               <tr>
                 <td class="tg-x75h">
-                  <span class="table-head">INR (GST excluded)</span>
+                  <span class="table-head">INR (GST Included )</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">USD (GST excluded)</span>
+                  <span class="table-head">USD (GST Included )</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">INR (GST excluded)</span>
+                  <span class="table-head">INR (GST Included )</span>
                 </td>
                 <td class="tg-x75h">
-                  <span class="table-head">USD (GST excluded)</span>
+                  <span class="table-head">USD (GST Included )</span>
                 </td>
               </tr>
             </thead>
@@ -55,16 +54,16 @@
                   <span class="table-head">Student/Research Scholar</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">4500/- </span>
+                  <span class="table-col">5325/- </span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$75</span>
+                  <span class="table-col">$90</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">5500/-</span>
+                  <span class="table-col">6500/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$85</span>
+                  <span class="table-col">$100</span>
                 </td>
               </tr>
               <tr>
@@ -72,16 +71,16 @@
                   <span class="table-head">Academician</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">5500/-</span>
-                </td>
-                <td class="tg-0lax">
-                  <span class="table-col">$100</span>
-                </td>
-                <td class="tg-0lax">
                   <span class="table-col">6500/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$110</span>
+                  <span class="table-col">$118</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">7700/-</span>
+                </td>
+                <td class="tg-0lax">
+                  <span class="table-col">$130</span>
                 </td>
               </tr>
               <tr>
@@ -89,16 +88,16 @@
                   <span class="table-head">Industry</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">6000/-</span>
+                  <span class="table-col">7100/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$110</span>
+                  <span class="table-col">$130</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">7000/-</span>
+                  <span class="table-col">8300/-</span>
                 </td>
                 <td class="tg-0lax">
-                  <span class="table-col">$125</span>
+                  <span class="table-col">$148</span>
                 </td>
               </tr>
             </tbody>
@@ -107,20 +106,33 @@
         <p class="article">
           <br />
           <strong
-            >Good and Service Tax (GST) will be applied as per Government
-            Directives</strong
+            >Good and Service Tax (GST) @ 18% included in the fee</strong
           >
           <br />
           <strong>Mode of payment</strong>: On line transaction to the account
           of Director -
         </p>
-        <p class="red-text">
+        <!-- <p class="red-text">
           Account Number: 38027633250, IFSC: SBIN002852, SBI, Raipur
-        </p>
+        </p> -->
+               <h4>
+            Account details of conference
+        </h4>
+         <ul style="list-style-type:none;line-height:1.5"></ul>
+        <table class="account_tables">
+          <tr><td>Account Name</td><td> Director NIT Raipur </td></tr>
+          <tr><td>Account No.</td><td> 38027633250</td></tr>
+          <tr><td>IFSC Code</td><td> SBIN0002852</td></tr>
+          <tr><td>Swift Code</td><td> SBININBB646</td></tr>
+          <tr><td>Bank Name</td><td> State Bank of India</td></tr>
+          <tr><td>Branch Name</td><td> NIT Branch</td></tr>
+          <tr><td>Address</td><td> G. E. Road, Raipur (C.G.) 492010</td></tr>
+        </table>
+        <br>
         <h4>
             Publications Opportunities
         </h4>
-        <p class="article">
+        <!-- <p class="article">
         <ul>
           <li>
             Based on the recommendations of the reviewer(s) the selected
@@ -134,7 +146,7 @@
             the authors.
           </li>
         </ul>
-       </p>
+       </p> -->
        <p class="article red-text">•	All the registered and presented papers in the conference will only be submitted to IEEE for their inclusion into IEEE Xplore which is Scopus indexed subject to IEEE review and the eligible papers further reviewed to be published in the IEEE Transaction on Industry Applications or IEEE IAS Magazine.</p>
        
       <h4>INSTRUCTION TO THE PARTICIPANTS</h4>
@@ -150,7 +162,8 @@ author is compulsory for each paper.</li>
 <li> Details of the Online mode of presentation will be made available in the ICPC<sup>2</sup>T 2022 conference website as and when applicable.</li>
         </ul>
 </p>
-<p class="article red-text">Participants are instructed to fill REGISTRATION FORM (Google form)</p>
+<p class="article red-text"><a href="https://docs.google.com/forms/d/1acCRuRg4-DXKlkCdPAHnt0ShVuIyRqjjiGyZ2NbJcKs/viewform?edit_requested=true"> Participants are instructed to fill REGISTRATION FORM (Google form)</a></p>
+
 
 <div class="logo"><img src="@/assets/ieee-xplore-logo.png" alt=""> </div> <div class="logo"><img style="width:300px;height:142px;" src="@/assets/partners/ias-logo.png" alt="" /> </div> 
 <br>
@@ -230,5 +243,10 @@ export default {
   text-decoration: none;
   color: #000;
   background-color: transparent;
+}
+.account_tables td {
+  border: 1px solid rgb(192, 192, 192);
+  padding: 8px 10px;
+  border-collapse: collapse;
 }
 </style>

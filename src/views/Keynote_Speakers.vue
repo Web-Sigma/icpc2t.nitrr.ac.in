@@ -17,7 +17,7 @@
                 alt="speaker"
               />
               <br />
-              Dr. Jih-Sheng (Jason) Lai <br />
+              <b>Dr. Jih-Sheng (Jason) Lai</b> <br />
               IEEE Fellow <br />
               James S. Tucker Professor <br />
               Director of Future Energy Electronics Center (FEEC) <br />
@@ -32,11 +32,27 @@
                 alt="speaker"
               />
               <br />
-              Dr. Akshay Kumar Rathore, <br />
+              <b>Dr. Akshay Kumar Rathore</b> <br />
               IEEE Fellow <br />
               Associate Professor <br />
               Electrical and Computer Engineering <br />
               Concordia University, Montreal, Quebec, Canada <br />
+            </div>
+          </div>
+          <div class="col-xl-6 col-md-12">
+            <div class="card card-body mb-5">
+              <img
+                src="@/assets/speaker3.jpg"
+                style="width: 100%; height: 270px"
+                alt="speaker"
+              />
+              <br />
+              <b> Prof. Sule Yildirim Yayilgan</b> <br />
+              Department of Information Security and Communication Technology
+              <br />
+              Faculty of Information Technology and Electrical Engineering
+              <br />
+              Ametyst-bygget, Gjøvik<br />
             </div>
           </div>
         </div>
